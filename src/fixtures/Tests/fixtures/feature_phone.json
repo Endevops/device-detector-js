@@ -19,7 +19,11 @@
   },
   {
     "user_agent": "BenQ-CF61/1.00/WAP2.0/MIDP2.0/CLDC1.0 UP.Browser/6.3.0.4.c.1.102 (GUI) MMP/2.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -32,12 +36,16 @@
       "brand": "BenQ",
       "model": "CF61"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "Cricket-A310/1.0 UP.Browser/6.3.0.7 (GUI) MMP/2.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -50,7 +58,7 @@
       "brand": "Cricket",
       "model": "A310"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -67,14 +75,18 @@
   },
   {
     "user_agent": "Fly_DS123/Q03C_MAUI_Browser/MIDP2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": "null",
     "device": {
       "type": "feature phone",
       "brand": "Fly",
       "model": "DS123"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -97,19 +109,27 @@
   },
   {
     "user_agent": "Fly_E158/WAPBrowserProfile/MIDP2.0 Configuration/CLDC1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": "null",
     "device": {
       "type": "feature phone",
       "brand": "Fly",
       "model": "E158"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
-    "user_agent": "GIONEE50_12864_11B_HW (MRE\\\\2.5.00(3072) resolution\\\\240320 chipset\\\\MT6250 touch\\\\1 tpannel\\\\0 camera\\\\1 gsensor\\\\0 keyboard\\\normal) 1307SY_0201_V1045 Release/2013.06.28 WAP Browser/MAUI (HTTP PGDL; HTTPS) Profile/Profile/MIDP-2.0 Configuration/CLDC-1.1 Q03C1-2.40 en-US\n",
-    "os": [],
+    "user_agent": "GIONEE50_12864_11B_HW (MRE\\\\2.5.00(3072) resolution\\\\240320 chipset\\\\MT6250 touch\\\\1 tpannel\\\\0 camera\\\\1 gsensor\\\\0 keyboard\\ormal) 1307SY_0201_V1045 Release/2013.06.28 WAP Browser/MAUI (HTTP PGDL; HTTPS) Profile/Profile/MIDP-2.0 Configuration/CLDC-1.1 Q03C1-2.40 en-US",
+    "os": {
+      "name": "MRE",
+      "version": "2.5.00",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "MAUI WAP Browser",
@@ -122,12 +142,16 @@
       "brand": "Gionee",
       "model": "50"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "GIONEE S80/Q03C MAUI-browser/MIDP2.0/CLDC1.1/Screen-240X320",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "MAUI WAP Browser",
@@ -140,7 +164,7 @@
       "brand": "Gionee",
       "model": "S80"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -181,7 +205,11 @@
   },
   {
     "user_agent": "KDDI-CA3H UP.Browser/6.2_7.2.7.1.K.5.214 (GUI) MMP/2.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -194,7 +222,7 @@
       "brand": "KDDI",
       "model": "CA3H"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -221,7 +249,11 @@
   },
   {
     "user_agent": "KDDI-SN3V UP.Browser/6.2_7.2.7.1.K.7.113 (GUI) MMP/2.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -234,12 +266,16 @@
       "brand": "KDDI",
       "model": "SN3V"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "KDDI-TS3W UP.Browser/6.2_7.2.7.1.K.6.1.102 (GUI) MMP/2.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -252,7 +288,7 @@
       "brand": "KDDI",
       "model": "TS3W"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -315,21 +351,31 @@
   },
   {
     "user_agent": "MOT-V360v/08.B7.58R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
-    "client": "null",
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Motorola Internet Browser",
+      "version": "2.2.1",
+      "engine": "",
+      "engine_version": ""
+    },
     "device": {
       "type": "feature phone",
       "brand": "Motorola",
       "model": "V360"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 6.12; es-US; KIN.Two 1.0)",
     "os": {
-      "name": "Windows CE",
-      "version": "",
+      "name": "KIN OS",
+      "version": "1.0",
       "platform": ""
     },
     "client": {
@@ -389,7 +435,11 @@
   },
   {
     "user_agent": "SAMSUNG-GT-E2152/E2152XXJK2 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "NetFront",
@@ -402,12 +452,16 @@
       "brand": "Samsung",
       "model": "E2152"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "NetFront"
   },
   {
     "user_agent": "SonyEricssonU10/R1x Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "NetFront",
@@ -420,12 +474,16 @@
       "brand": "Sony Ericsson",
       "model": "Aino"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "NetFront"
   },
   {
     "user_agent": "SonyEricssonU100i/R1x Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "NetFront",
@@ -438,12 +496,16 @@
       "brand": "Sony Ericsson",
       "model": "Aino"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "NetFront"
   },
   {
     "user_agent": "SonyEricssonJ108i/R1x Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "NetFront",
@@ -456,12 +518,16 @@
       "brand": "Sony Ericsson",
       "model": "Cedar"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "NetFront"
   },
   {
     "user_agent": "SonyEricssonJ10i2/R1x Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "NetFront",
@@ -474,12 +540,16 @@
       "brand": "Sony Ericsson",
       "model": "Elm"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "NetFront"
   },
   {
     "user_agent": "SonyEricssonJ20i/R1x Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "NetFront",
@@ -492,12 +562,16 @@
       "brand": "Sony Ericsson",
       "model": "Hazel"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "NetFront"
   },
   {
     "user_agent": "SonyEricssonF100i/R1x Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "NetFront",
@@ -510,12 +584,16 @@
       "brand": "Sony Ericsson",
       "model": "Jalou"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "NetFront"
   },
   {
     "user_agent": "SonyEricssonWT13i/R3AF010 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Obigo",
@@ -528,12 +606,16 @@
       "brand": "Sony Ericsson",
       "model": "Mix Walkman"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "UCWEB/2.0 (Java; U; MIDP-2.0; fr-FR; sonyericssonwt13i) U2/1.0.0 UCBrowser/9.2.0.311 U2/1.0.0 Mobile UNTRUSTED/1.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "UC Browser",
@@ -546,12 +628,16 @@
       "brand": "Sony Ericsson",
       "model": "Mix Walkman"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "SonyEricssonJ105i/R1x Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "NetFront",
@@ -564,7 +650,7 @@
       "brand": "Sony Ericsson",
       "model": "Naite"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "NetFront"
   },
   {
@@ -635,19 +721,27 @@
   },
   {
     "user_agent": "SonyEricssonW100i/1.0 Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": "null",
     "device": {
       "type": "feature phone",
       "brand": "Sony Ericsson",
       "model": "Spiro"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "SonyEricssonCK13i/R5AA032 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Obigo",
@@ -660,12 +754,16 @@
       "brand": "Sony Ericsson",
       "model": "txt"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "SonyEricssonCK15i/R3AE021 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Obigo",
@@ -678,12 +776,16 @@
       "brand": "Sony Ericsson",
       "model": "txt pro"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "UCWEB/2.0 (Java; U; MIDP-2.0; es-LA; SonyEricssonCK15i) U2/1.0.0 UCBrowser/9.4.0.342 U2/1.0.0 Mobile UNTRUSTED/1.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "UC Browser",
@@ -696,7 +798,7 @@
       "brand": "Sony Ericsson",
       "model": "txt pro"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -745,7 +847,11 @@
   },
   {
     "user_agent": "SonyEricssonW150a/1.0 TelecaBrowser/Q07C1-3 Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Obigo",
@@ -758,12 +864,16 @@
       "brand": "Sony Ericsson",
       "model": "Yendo"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "SonyEricssonW20/R1x Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "NetFront",
@@ -776,12 +886,16 @@
       "brand": "Sony Ericsson",
       "model": "Zylo"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "NetFront"
   },
   {
     "user_agent": "SAGEM-my411C-orange/1.0/ MIDP-2.0 Configuration/CLDC-1.1 Browser/UP.Browser/7.2.6.c.1.382 (GUI)",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -794,12 +908,16 @@
       "brand": "Sagem",
       "model": "my411C-orange"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "Sagem-my411X/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Browser/UP.Browser/7.2.6.c.1.326 (GUI)",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -812,12 +930,16 @@
       "brand": "Sagem",
       "model": "my411X"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "SAGEM-my511X-orange/1.0/ MIDP-2.0 Configuration/CLDC-1.1 Browser/UP.Browser/7.2.6.c.1.393 (GUI)",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -830,12 +952,16 @@
       "brand": "Sagem",
       "model": "my511X-orange"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "SAGEM-myC5-2v/1.0 UP.Browser/6.2.3.3.g.2.106 (GUI) MMP/2.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -848,12 +974,16 @@
       "brand": "Sagem",
       "model": "myC5-2v"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "SAGEM-myV-55/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.0 UP.Browser/6.2.2.6.d.3.100 (GUI) MMP/1.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -866,7 +996,7 @@
       "brand": "Sagem",
       "model": "myV-55"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -915,7 +1045,11 @@
   },
   {
     "user_agent": "Mozilla/4.0 (REX; U; en-us; Sanyo; SCP-6750/US; NetFront/3.4/AMB)",
-    "os": [],
+    "os": {
+      "name": "REX",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "NetFront",
@@ -928,12 +1062,16 @@
       "brand": "Sanyo",
       "model": "Katana Eclipse X"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "NetFront"
   },
   {
     "user_agent": "Mozilla/4.0 (MobilePhone PM-8200/US/1.0) NetFront/3.x MMP/2.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "NetFront",
@@ -946,7 +1084,7 @@
       "brand": "Sanyo",
       "model": "PM-8200"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "NetFront"
   },
   {
@@ -985,7 +1123,11 @@
   },
   {
     "user_agent": "VK-VK700 UP.Browser/6.2.3.4 (GUI) MMP/2.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -998,12 +1140,16 @@
       "brand": "VK Mobile",
       "model": "VK700"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "vk-vk900/1.1 up.browser/6.2.3.4 (gui) mmp/2.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -1016,7 +1162,7 @@
       "brand": "VK Mobile",
       "model": "VK900"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -1351,7 +1497,11 @@
   },
   {
     "user_agent": "Videocon_V1585_Maui Wap Browser Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "MAUI WAP Browser",
@@ -1364,12 +1514,16 @@
       "brand": "Videocon",
       "model": "V1585"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "Micromax X291/Q03C MAUI-Browser Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "MAUI WAP Browser",
@@ -1382,12 +1536,16 @@
       "brand": "MicroMax",
       "model": "X291"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "Micromax X246/Q03C MAUI-Browser Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "MAUI WAP Browser",
@@ -1400,12 +1558,16 @@
       "brand": "MicroMax",
       "model": "X246"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "Micromax X458/Q03C MAUI-Browser Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "MAUI WAP Browser",
@@ -1418,12 +1580,16 @@
       "brand": "MicroMax",
       "model": "X458"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "Micromax X312/Q03C MAUI-Browser Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "MAUI WAP Browser",
@@ -1436,12 +1602,16 @@
       "brand": "MicroMax",
       "model": "X312"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "Micromax X252/Q03C MAUI-Browser Profile/MIDP-2.0 Configuration/CLDC-1.1",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "MAUI WAP Browser",
@@ -1454,7 +1624,7 @@
       "brand": "MicroMax",
       "model": "X252"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -1482,7 +1652,13 @@
   {
     "user_agent": "DoCoMo/2.0 MST_v_SH2101V",
     "os": [],
-    "client": "null",
+    "client": {
+      "type": "browser",
+      "name": "DoCoMo",
+      "version": "2.0",
+      "engine": "",
+      "engine_version": ""
+    },
     "device": {
       "type": "feature phone",
       "brand": "DoCoMo",
@@ -1494,7 +1670,13 @@
   {
     "user_agent": "DoCoMo/1.0/D501i",
     "os": [],
-    "client": "null",
+    "client": {
+      "type": "browser",
+      "name": "DoCoMo",
+      "version": "1.0",
+      "engine": "",
+      "engine_version": ""
+    },
     "device": {
       "type": "feature phone",
       "brand": "DoCoMo",
@@ -1506,7 +1688,13 @@
   {
     "user_agent": "DoCoMo/1.0/F501i",
     "os": [],
-    "client": "null",
+    "client": {
+      "type": "browser",
+      "name": "DoCoMo",
+      "version": "1.0",
+      "engine": "",
+      "engine_version": ""
+    },
     "device": {
       "type": "feature phone",
       "brand": "DoCoMo",
@@ -1518,7 +1706,13 @@
   {
     "user_agent": "DoCoMo/1.0/P501i",
     "os": [],
-    "client": "null",
+    "client": {
+      "type": "browser",
+      "name": "DoCoMo",
+      "version": "1.0",
+      "engine": "",
+      "engine_version": ""
+    },
     "device": {
       "type": "feature phone",
       "brand": "DoCoMo",
@@ -1529,7 +1723,11 @@
   },
   {
     "user_agent": "KDDI-TS3N UP.Browser/6.2_7.2.7.1.K.3.330 (GUI) MMP/2.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -1542,12 +1740,16 @@
       "brand": "KDDI",
       "model": "TS3N"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
     "user_agent": "SIE-S55/16 UP.Browser/6.1.0.5.c.4 (GUI) MMP/1.0 UP.Link/5.1.2.10",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -1560,7 +1762,7 @@
       "brand": "Siemens",
       "model": "S55"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -1595,7 +1797,11 @@
   },
   {
     "user_agent": "SIE-S65/12 UP.Browser/7.0.0.1.c3 (GUI) MMP/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Link/5.1.2.16",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -1608,7 +1814,7 @@
       "brand": "Siemens",
       "model": "S65"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -1643,7 +1849,11 @@
   },
   {
     "user_agent": "Amoi-CA6/1.0 UP.Browser/6.2.2.5 (GUI) MMP/1.0",
-    "os": [],
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
     "client": {
       "type": "browser",
       "name": "Openwave Mobile Browser",
@@ -1652,11 +1862,11 @@
       "engine_version": ""
     },
     "device": {
-      "type": "smartphone",
+      "type": "feature phone",
       "brand": "Amoi",
       "model": "CA6"
     },
-    "os_family": "Unknown",
+    "os_family": "Real-time OS",
     "browser_family": "Unknown"
   },
   {
@@ -1702,5 +1912,2099 @@
     },
     "os_family": "Windows Mobile",
     "browser_family": "Internet Explorer"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Fise_32433_3G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "FISE",
+      "model": "M32433 3G"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; DIXON_XK1_3G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "DIXON",
+      "model": "XK1 3G"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Tech_Pad_Kaios_One_3G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "TechPad",
+      "model": "Kaios One 3G"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "B30_Dorado WAP-Browser/1.0.0",
+    "os": [],
+    "client": {
+      "type": "browser",
+      "name": "Dorado",
+      "version": "1.0.0",
+      "engine": "",
+      "engine_version": ""
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Cat",
+      "model": "B30"
+    },
+    "os_family": "Unknown",
+    "browser_family": "Nokia Browser"
+  },
+  {
+    "user_agent": "G-Fone777/Browser/WAP2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1",
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
+    "client": "null",
+    "device": {
+      "type": "feature phone",
+      "brand": "Gfone",
+      "model": "777"
+    },
+    "os_family": "Real-time OS",
+    "browser_family": "Unknown"
+  },
+  {
+    "user_agent": "FLY-SL600/BSI AU.Browser/2.0 QO3C1",
+    "os": [],
+    "client": "null",
+    "device": {
+      "type": "feature phone",
+      "brand": "Fly",
+      "model": "SL600"
+    },
+    "os_family": "Unknown",
+    "browser_family": "Unknown"
+  },
+  {
+    "user_agent": "O2-X2i/6.1.0.7 UP.Browser/6.1.0.7.8.c.1.103 (GUI) MMP/1.0",
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Openwave Mobile Browser",
+      "version": "6.1.0.7.8",
+      "engine": "",
+      "engine_version": ""
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "O2",
+      "model": "X2i"
+    },
+    "os_family": "Real-time OS",
+    "browser_family": "Unknown"
+  },
+  {
+    "user_agent": "O2-X1i/6.1.0.7 UP.Browser/6.1.0.7.8.c.1.100 (GUI) MMP/1.0",
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Openwave Mobile Browser",
+      "version": "6.1.0.7.8",
+      "engine": "",
+      "engine_version": ""
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "O2",
+      "model": "X1i"
+    },
+    "os_family": "Real-time OS",
+    "browser_family": "Unknown"
+  },
+  {
+    "user_agent": "O2-X4 UP.Browser/6.2.3.5.122 (GUI) MMP/2.0",
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Openwave Mobile Browser",
+      "version": "6.2.3.5.122",
+      "engine": "",
+      "engine_version": ""
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "O2",
+      "model": "X4"
+    },
+    "os_family": "Real-time OS",
+    "browser_family": "Unknown"
+  },
+  {
+    "user_agent": "G4040_MAUI WAP Browser",
+    "os": [],
+    "client": {
+      "type": "browser",
+      "name": "MAUI WAP Browser",
+      "version": "",
+      "engine": "",
+      "engine_version": ""
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "A&K",
+      "model": "G4040"
+    },
+    "os_family": "Unknown",
+    "browser_family": "Unknown"
+  },
+  {
+    "user_agent": "KDDI-CA32 UP.Browser/6.2.0.7.3.129 (GUI) MMP/2.0",
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Openwave Mobile Browser",
+      "version": "6.2.0.7.3.129",
+      "engine": "",
+      "engine_version": ""
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "KDDI",
+      "model": "CA32"
+    },
+    "os_family": "Real-time OS",
+    "browser_family": "Unknown"
+  },
+  {
+    "user_agent": "LAVA KKT Pearl/MIDP-2.0 Configuration/CLDC-1.1/Screen-240x320",
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
+    "client": "null",
+    "device": {
+      "type": "feature phone",
+      "brand": "Lava",
+      "model": "KKT Pearl"
+    },
+    "os_family": "Real-time OS",
+    "browser_family": "Unknown"
+  },
+  {
+    "user_agent": "LAVA Spark i7/MIDP-2.0 Configuration/CLDC-1.1/Screen-240x320  Dorado WAP-Browser",
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Dorado",
+      "version": "",
+      "engine": "",
+      "engine_version": ""
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Lava",
+      "model": "Spark i7"
+    },
+    "os_family": "Real-time OS",
+    "browser_family": "Nokia Browser"
+  },
+  {
+    "user_agent": "TECNOT611/wap2.0_Profile/MIDP-2.0/CLDC-1.1/240x320/key",
+    "os": {
+      "name": "Java ME",
+      "version": "",
+      "platform": ""
+    },
+    "client": "null",
+    "device": {
+      "type": "feature phone",
+      "brand": "Tecno Mobile",
+      "model": "T611"
+    },
+    "os_family": "Real-time OS",
+    "browser_family": "Unknown"
+  },
+  {
+    "user_agent": "Mozilla/3.0(WILLCOM;SANYO/WX310SA/2;1/1/C128) NetFront/3.3",
+    "os": [],
+    "client": {
+      "type": "browser",
+      "name": "NetFront",
+      "version": "3.3",
+      "engine": "NetFront",
+      "engine_version": "3.3"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Sanyo",
+      "model": "WX310SA"
+    },
+    "os_family": "Unknown",
+    "browser_family": "NetFront"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Crosscall_Core-S4_4G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Crosscall",
+      "model": "Core-S4"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL4044T; rv:37.0) Gecko/37.0 Firefox/37.0 KaiOS/1.0",
+    "os": {
+      "name": "KaiOS",
+      "version": "1.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "37.0",
+      "engine": "Gecko",
+      "engine_version": "37.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "Go Flip"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; LYF/LF-2403N/LYF-LF2403N-000-01-38-151217;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "LYF",
+      "model": "LF-2403N"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-28-130318; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "LYF",
+      "model": "F90M"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; LYF/F30C/LYF_F30C-000-09-10-140318; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "LYF",
+      "model": "F30C"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; IPRO_K2_3G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "iPro",
+      "model": "K2 3G"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; CAT B35; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Cat",
+      "model": "B35"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-05-011118_audio_patch-i;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "LYF",
+      "model": "F120B"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ATT_EA211101; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.4",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.4",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "AT&T",
+      "model": "Cingular Flex"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Nokia 2720 V Flip; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.4",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.4",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Nokia",
+      "model": "2720 V Flip"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Nokia_2720_Flip; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Nokia",
+      "model": "2720 Flip"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; 3088X; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "3088"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL 4052C; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "SmartFlip"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL 4052O; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "Go Flip 3"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL 4052R; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "SmartFlip"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL 4052W; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "Go Flip 3"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL 4052Z; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "Go Flip 3"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL 4056W; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0",
+    "os": {
+      "name": "KaiOS",
+      "version": "3.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "84.0",
+      "engine": "Gecko",
+      "engine_version": "84.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "Go Flip 4"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL 4056Z; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0",
+    "os": {
+      "name": "KaiOS",
+      "version": "3.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "84.0",
+      "engine": "Gecko",
+      "engine_version": "84.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "Go Flip 4"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL A406DL; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.4",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.4",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "MyFlip 2"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Mango_AKABUTO_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Mango",
+      "model": "Akabuto 4G"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ATT_U102AA; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "AT&T",
+      "model": "Cingular Flip IV"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ATT_U1030AA; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "3.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "84.0",
+      "engine": "Gecko",
+      "engine_version": "84.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "AT&T",
+      "model": "Cingular Flex 2"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL4044C; rv:37.0) Gecko/37.0 Firefox/37.0 KaiOS/1.0",
+    "os": {
+      "name": "KaiOS",
+      "version": "1.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "37.0",
+      "engine": "Gecko",
+      "engine_version": "37.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "Quick Flip"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL4044O; rv:37.0) Gecko/37.0 Firefox/37.0 KaiOS/1.0",
+    "os": {
+      "name": "KaiOS",
+      "version": "1.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "37.0",
+      "engine": "Gecko",
+      "engine_version": "37.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "Cingular Flip II"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ALCATEL4044V; rv:37.0) Gecko/37.0 Firefox/37.0 KaiOS/1.0",
+    "os": {
+      "name": "KaiOS",
+      "version": "1.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "37.0",
+      "engine": "Gecko",
+      "engine_version": "37.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "Go Flip V"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; CKT_U102AC; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Cricket",
+      "model": "Debut Flip"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; CKT_U1030AC; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "3.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "84.0",
+      "engine": "Gecko",
+      "engine_version": "84.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Cricket",
+      "model": "Debut Flex"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Alcatel",
+      "model": "MyFlip"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Doppio_TEXTER_3G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Doppio",
+      "model": "Texter"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; BLACKPHONE_Blackphone_K330_3G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Blackphone",
+      "model": "K330"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; GEOPHONE_T19I_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Geo Phone",
+      "model": "T19i"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Geo_Phone_T15_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Geo Phone",
+      "model": "T15"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Geo_Phone_T19_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Geo Phone",
+      "model": "T19"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Accent_Nubia50K; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Accent",
+      "model": "Nubia 50K"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ACCENT_NUBIA60K; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Accent",
+      "model": "Nubia 60K"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Accent_60K28_512; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Accent",
+      "model": "Nubia 60K"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; B300V; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "3.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "84.0",
+      "engine": "Gecko",
+      "engine_version": "84.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Blu",
+      "model": "Flex"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; BLU_TankMega_3G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Blu",
+      "model": "Tank Mega"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; BLU_ZOEY_SMART; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Blu",
+      "model": "Zoey Smart"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Jio/F491H/Jio-F491H-001-06-24-271223;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Jio",
+      "model": "F491H"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Jio/JFP1AE/Jio-JFP1AE-001-01-47-080524;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Jio",
+      "model": "JFP1AE"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Multilaser_ZAPP; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Multilaser",
+      "model": "ZAPP"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Multilaser_ZAPP_II_3G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Multilaser",
+      "model": "ZAPP II"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; M560M3; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "MTN",
+      "model": "Smart S"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; M561M3; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "MTN",
+      "model": "Smart T"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; M562F3; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Orange",
+      "model": "Sanza"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; M571M3; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "MTN",
+      "model": "Smart Kamunye"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; RED_X_RX2441_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "RED-X",
+      "model": "RX2441"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; SIGMAMOBILE-S3500-3G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Sigma",
+      "model": "X-Style"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; R3Di_FR150; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.4",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.4",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "R3Di",
+      "model": "FR150"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Symphony_PD1_4G_4G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Symphony",
+      "model": "PD1 4G"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Bmobile_W125K_3G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Bmobile",
+      "model": "W125K"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Digit_Digit4G-Bold_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Digit",
+      "model": "Digit4G Bold"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Digit_Digit4G-Defender_4G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Digit",
+      "model": "Digit4G Defender"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Digit_Digit4G-Elite_4G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Digit",
+      "model": "Digit4G Elite"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Digit_Digit4G-Music_4G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Digit",
+      "model": "Digit4G Music"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Digit_Digit4G-Power_4G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Digit",
+      "model": "Digit4G Power"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Digit_Digit4G-Star_4G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Digit",
+      "model": "Digit4G Star"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Digit_Digit4GLite_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Digit",
+      "model": "Digit4G Lite"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Digit_Digit4GPowerMAX_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Digit",
+      "model": "Digit4G Power Max"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Digit_Digit4G_Shine_4G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Digit",
+      "model": "Digit4G Shine"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Sanza-M560F3; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Orange",
+      "model": "Sanza"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Energizer_E241; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Energizer",
+      "model": "E241"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ENERGIZER_E241S; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Energizer",
+      "model": "E241S"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Energizer_E242S_4G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Energizer",
+      "model": "E242S"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ENERGIZER_E280S; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Energizer",
+      "model": "E280S"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Energizer_E282SC_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Energizer",
+      "model": "E282SC"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ENERGIZER_H280A_512; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Energizer",
+      "model": "H280A"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; IDC_Voice_20_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "IDC",
+      "model": "Voice 20"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Free_Wi-Kif4G_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "free",
+      "model": "Wi-Kif 4G"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Telma_Wi-Kif+3G_3G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Telma",
+      "model": "Wi-Kif+ 3G"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Telma_Wi-Kif+4G_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Telma",
+      "model": "Wi-Kif+ 4G"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Telma_Wikif_Max_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Telma",
+      "model": "Wi-Kif Max"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; KLT_K301; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "K-Lite",
+      "model": "K301"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile;Orange_Nevalink;rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Orange",
+      "model": "Neva Link"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile;Orange_Nevamini;rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.2.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Orange",
+      "model": "Neva Mini"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ASPERA_F30_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Aspera",
+      "model": "F30"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; ASPERA_R40_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.3.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Aspera",
+      "model": "R40"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; Condor_FP216L; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Condor",
+      "model": "FP216L"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; LOGAN_Panita_3G; rv:48.0; CAEN) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.2",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1.2",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "LOGAN",
+      "model": "Panita"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Mobile; MAXCOM MK241; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1",
+    "os": {
+      "name": "KaiOS",
+      "version": "2.5.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Firefox Mobile",
+      "version": "48.0",
+      "engine": "Gecko",
+      "engine_version": "48.0"
+    },
+    "device": {
+      "type": "feature phone",
+      "brand": "Maxcom",
+      "model": "MK241"
+    },
+    "os_family": "Firefox OS",
+    "browser_family": "Firefox"
   }
 ]

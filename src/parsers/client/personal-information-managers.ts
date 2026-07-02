@@ -1,7 +1,11 @@
-import personalInformationManagers from "../../fixtures/regexes/client/pim.json";
-import { formatVersion } from "../../utils/version";
-import { variableReplacement } from "../../utils/variable-replacement";
-import { userAgentParser } from "../../utils/user-agent";
+import personalInformationManagers from '#/fixtures/regexes/client/pim.json';
+import { userAgentParser } from '#/utils/user-agent';
+import { variableReplacement } from '#/utils/variable-replacement';
+import { formatVersion } from '#/utils/version';
+
+interface Options {
+  versionTruncation: 0 | 1 | 2 | 3 | null;
+}
 
 export interface PersonalInformationManagerResult {
   type: string;
@@ -9,24 +13,20 @@ export interface PersonalInformationManagerResult {
   version: string;
 }
 
-interface Options {
-  versionTruncation: 0 | 1 | 2 | 3 | null;
-}
-
-export default class PersonalInformationManagerParser {
+export class PersonalInformationManagerParser {
   private readonly options: Options = {
-    versionTruncation: 1
+    versionTruncation: 1,
   };
 
   constructor(options?: Partial<Options>) {
-    this.options = {...this.options, ...options};
+    this.options = { ...this.options, ...options };
   }
 
   public parse = (userAgent: string): PersonalInformationManagerResult => {
     const result: PersonalInformationManagerResult = {
-      type: "",
-      name: "",
-      version: ""
+      type: '',
+      name: '',
+      version: '',
     };
 
     for (const personalInformationManager of personalInformationManagers) {
@@ -34,7 +34,7 @@ export default class PersonalInformationManagerParser {
 
       if (!match) continue;
 
-      result.type = "personal information manager";
+      result.type = 'personal information manager';
       result.name = variableReplacement(personalInformationManager.name, match);
       result.version = formatVersion(variableReplacement(personalInformationManager.version, match), this.options.versionTruncation);
       break;

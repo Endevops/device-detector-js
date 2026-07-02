@@ -1,20 +1,20 @@
-import televisions from "../../fixtures/regexes/device/televisions.json";
-import { GenericDeviceResult } from "../../typings/device";
-import { variableReplacement } from "../../utils/variable-replacement";
-import { userAgentParser } from "../../utils/user-agent";
-import { buildModel } from "../../utils/model";
+import televisions from '#/fixtures/regexes/device/televisions.json';
+import type { GenericDeviceResult } from '#/typings/device';
+import { buildModel } from '#/utils/model';
+import { userAgentParser } from '#/utils/user-agent';
+import { variableReplacement } from '#/utils/variable-replacement';
 
-export default class TelevisionParser {
+export class TelevisionParser {
   public parse = (userAgent: string): GenericDeviceResult => {
     const result: GenericDeviceResult = {
-      type: "",
-      brand: "",
-      model: ""
+      type: '',
+      brand: '',
+      model: '',
     };
 
     if (!this.isHbbTv(userAgent)) return result;
 
-    result.type = "television";
+    result.type = 'television';
 
     for (const [brand, television] of Object.entries(televisions)) {
       const match = userAgentParser(television.regex, userAgent);
@@ -23,9 +23,9 @@ export default class TelevisionParser {
 
       result.brand = brand;
 
-      if ("model" in television && television.model) {
+      if ('model' in television && television.model) {
         result.model = buildModel(variableReplacement(television.model, match)).trim();
-      } else if ("models" in television && television.models) {
+      } else if ('models' in television && television.models) {
         for (const model of television.models) {
           const modelMatch = userAgentParser(model.regex, userAgent);
 
@@ -42,6 +42,6 @@ export default class TelevisionParser {
   };
 
   private isHbbTv = (userAgent: string) => {
-    return userAgentParser("HbbTV\/([1-9]{1}(?:\.[0-9]{1}){1,2})", userAgent);
+    return userAgentParser('HbbTV/([1-9]{1}(?:.[0-9]{1}){1,2})', userAgent);
   };
 }

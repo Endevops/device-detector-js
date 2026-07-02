@@ -1,14 +1,14 @@
-import cars from "../../fixtures/regexes/device/car_browsers.json";
-import { GenericDeviceResult } from "../../typings/device";
-import { variableReplacement } from "../../utils/variable-replacement";
-import { userAgentParser } from "../../utils/user-agent";
+import cars from '#/fixtures/regexes/device/car_browsers.json';
+import type { GenericDeviceResult } from '#/typings/device';
+import { userAgentParser } from '#/utils/user-agent';
+import { variableReplacement } from '#/utils/variable-replacement';
 
-export default class CarParser {
+export class CarParser {
   public parse = (userAgent: string): GenericDeviceResult => {
     const result: GenericDeviceResult = {
-      type: "",
-      brand: "",
-      model: ""
+      type: '',
+      brand: '',
+      model: '',
     };
 
     for (const [brand, car] of Object.entries(cars)) {
@@ -16,7 +16,7 @@ export default class CarParser {
 
       if (!match) continue;
 
-      result.type = "car";
+      result.type = 'car';
       result.brand = brand;
 
       for (const model of car.models) {

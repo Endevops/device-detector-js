@@ -1,19 +1,19 @@
-import notebooks from "../../fixtures/regexes/device/notebooks.json";
-import { GenericDeviceResult } from "../../typings/device"
-import { variableReplacement } from "../../utils/variable-replacement";
-import { userAgentParser } from "../../utils/user-agent";
-import {buildModel} from "../../utils/model";
+import notebooks from '#/fixtures/regexes/device/notebooks.json';
+import type { GenericDeviceResult } from '#/typings/device';
+import { buildModel } from '#/utils/model';
+import { userAgentParser } from '#/utils/user-agent';
+import { variableReplacement } from '#/utils/variable-replacement';
 
-export default class NotebooksParser {
+export class NotebooksParser {
   public parse = (userAgent: string): GenericDeviceResult => {
     const result: GenericDeviceResult = {
-      type: "",
-      brand: "",
-      model: ""
+      type: '',
+      brand: '',
+      model: '',
     };
 
-    if (!userAgentParser("FBMD/", userAgent)) {
-      return result
+    if (!userAgentParser('FBMD/', userAgent)) {
+      return result;
     }
 
     for (const [brand, notebook] of Object.entries(notebooks)) {
@@ -21,12 +21,12 @@ export default class NotebooksParser {
 
       if (!match) continue;
 
-      result.type = "desktop";
+      result.type = 'desktop';
       result.brand = brand;
 
-      if ("model" in notebook && notebook.model) {
+      if ('model' in notebook && notebook.model) {
         result.model = buildModel(variableReplacement(notebook.model, match)).trim();
-      } else if ("models" in notebook && notebook.models){
+      } else if ('models' in notebook && notebook.models) {
         for (const model of notebook.models) {
           const match = userAgentParser(model.regex, userAgent);
 

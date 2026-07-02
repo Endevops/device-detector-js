@@ -1,8 +1,8 @@
 export const buildModel = (model: string) => {
-  model = model.replace(/_/g, " ");
-  model = model.replace(RegExp(" TD$", "i"), "");
+  model = model.replace(/_/g, ' ');
+  model = model.replace(RegExp(' TD$', 'i'), '');
 
-  if (model === "Build") return "";
+  if (model === 'Build') return '';
 
   return model;
 };

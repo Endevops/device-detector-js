@@ -1,6 +1,26 @@
 {
+  "BMW": {
+    "regex": "AFTLBT962E2(?:[);/ ]|$)",
+    "device": "car browser",
+    "models": [
+      {
+        "regex": "AFTLBT962E2(?:[);/ ]|$)",
+        "model": "Car (2022)"
+      }
+    ]
+  },
+  "Jeep": {
+    "regex": "AFTLFT962X3(?:[);/ ]|$)",
+    "device": "car browser",
+    "models": [
+      {
+        "regex": "AFTLFT962X3(?:[);/ ]|$)",
+        "model": "Wagoneer"
+      }
+    ]
+  },
   "Tesla": {
-    "regex": "(?:Tesla/[0-9.]+|QtCarBrowser)",
+    "regex": "(?:Tesla/(?:(?:develop|feature|terminal-das-fsd-eap)-)?[0-9.]+|QtCarBrowser)",
     "device": "car browser",
     "models": [
       {

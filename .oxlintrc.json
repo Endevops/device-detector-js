@@ -1,0 +1,17 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": ["typescript", "unicorn", "oxc", "import"],
+  "categories": {
+    "correctness": "error"
+  },
+  "rules": {
+    "import/consistent-type-specifier-style": "error",
+    "import/exports-last": "error",
+    "import/first": "error",
+    "typescript/consistent-type-imports": ["error", { "fixStyle": "separate-type-imports", "disallowTypeAnnotations": false }],
+    "@typescript-eslint/consistent-type-imports": ["error", { "fixStyle": "separate-type-imports", "disallowTypeAnnotations": false }]
+  },
+  "env": {
+    "builtin": true
+  }
+}

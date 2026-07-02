@@ -1,4 +1,4 @@
-import { memoryCache } from "./memory-cache";
+import { memoryCache } from './memory-cache';
 
 interface CacheEntry<V> {
   value: V;
@@ -11,10 +11,10 @@ const getRegexInstance = (rawRegex: string) => {
 
   if (cachedRegexInstance) return cachedRegexInstance.value;
 
-  const regexInstance = RegExp(`(?:^|[^A-Z0-9\-_]|[^A-Z0-9\-]_|sprd-)(?:${rawRegex})`, "i");
+  const regexInstance = RegExp(`(?:^|[^A-Z0-9-_]|[^A-Z0-9-]_|sprd-)(?:${rawRegex})`, 'i');
 
   cache.set(rawRegex, {
-    value: regexInstance
+    value: regexInstance,
   });
 
   return regexInstance;

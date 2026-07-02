@@ -1,6 +1,14 @@
-import { formatVersion, parseBrowserEngineVersion } from "../../utils/version";
-import { variableReplacement } from "../../utils/variable-replacement";
-import { userAgentParser } from "../../utils/user-agent";
+import browserEngines from '#/fixtures/regexes/client/browser_engine.json';
+import browsers from '#/fixtures/regexes/client/browsers.json';
+import { userAgentParser } from '#/utils/user-agent';
+import { variableReplacement } from '#/utils/variable-replacement';
+import { formatVersion, parseBrowserEngineVersion } from '#/utils/version';
+import availableBrowsers from './fixtures/available-browsers.json';
+import mobileOnlyBrowsers from './fixtures/mobile-only-browsers.json';
+
+interface Options {
+  versionTruncation: 0 | 1 | 2 | 3 | null;
+}
 
 export interface BrowserResult {
   type: string;
@@ -10,17 +18,7 @@ export interface BrowserResult {
   engineVersion: string;
 }
 
-interface Options {
-  versionTruncation: 0 | 1 | 2 | 3 | null;
-}
-
-import browsers from "../../fixtures/regexes/client/browsers.json";
-import browserEngines from "../../fixtures/regexes/client/browser_engine.json";
-import availableBrowsers from "./fixtures/available-browsers.json";
-import browserFamilies from "./fixtures/browser-families.json";
-import mobileOnlyBrowsers from "./fixtures/mobile-only-browsers.json";
-
-export default class BrowserParser {
+export class BrowserParser {
   public static getBrowserShortName = (browserName: string): string => {
     for (const [shortName, name] of Object.entries(availableBrowsers)) {
       if (name === browserName) {
@@ -28,7 +26,7 @@ export default class BrowserParser {
       }
     }
 
-    return "";
+    return '';
   };
 
   public static isMobileOnlyBrowser = (browserName: string) => {
@@ -36,20 +34,20 @@ export default class BrowserParser {
   };
 
   private readonly options: Options = {
-    versionTruncation: 1
+    versionTruncation: 1,
   };
 
   constructor(options?: Partial<Options>) {
-    this.options = {...this.options, ...options};
+    this.options = { ...this.options, ...options };
   }
 
   public parse = (userAgent: string): BrowserResult => {
     const result: BrowserResult = {
-      type: "",
-      name: "",
-      version: "",
-      engine: "",
-      engineVersion: ""
+      type: '',
+      name: '',
+      version: '',
+      engine: '',
+      engineVersion: '',
     };
 
     for (const browser of browsers) {
@@ -59,7 +57,7 @@ export default class BrowserParser {
 
       const vrpVersion = variableReplacement(browser.version, match);
       const version = formatVersion(vrpVersion, this.options.versionTruncation);
-      const shortVersion = version && parseFloat(formatVersion(vrpVersion, 1)) || "";
+      const shortVersion = (version && parseFloat(formatVersion(vrpVersion, 1))) || '';
 
       if (browser.engine) {
         result.engine = browser.engine.default;
@@ -71,13 +69,13 @@ export default class BrowserParser {
 
           for (const [versionThreshold, engineByVersion] of sortedEngineVersions) {
             if (parseFloat(versionThreshold) <= shortVersion) {
-              result.engine = engineByVersion || "";
+              result.engine = engineByVersion || '';
             }
           }
         }
       }
 
-      result.type = "browser";
+      result.type = 'browser';
       result.name = variableReplacement(browser.name, match);
       result.version = version;
       break;
@@ -85,10 +83,9 @@ export default class BrowserParser {
 
     if (!result.engine) {
       for (const browserEngine of browserEngines) {
-
         let match = null;
         try {
-          match = RegExp(browserEngine.regex, "i").exec(userAgent);
+          match = RegExp(browserEngine.regex, 'i').exec(userAgent);
         } catch {
           // TODO: find out why it fails in some browsers
         }

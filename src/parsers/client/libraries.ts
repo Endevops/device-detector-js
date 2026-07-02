@@ -1,7 +1,11 @@
-import libraries from "../../fixtures/regexes/client/libraries.json";
-import { formatVersion } from "../../utils/version";
-import { variableReplacement } from "../../utils/variable-replacement";
-import { userAgentParser } from "../../utils/user-agent";
+import libraries from '#/fixtures/regexes/client/libraries.json';
+import { userAgentParser } from '#/utils/user-agent';
+import { variableReplacement } from '#/utils/variable-replacement';
+import { formatVersion } from '#/utils/version';
+
+interface Options {
+  versionTruncation: 0 | 1 | 2 | 3 | null;
+}
 
 export interface LibraryResult {
   type: string;
@@ -10,25 +14,21 @@ export interface LibraryResult {
   url: string;
 }
 
-interface Options {
-  versionTruncation: 0 | 1 | 2 | 3 | null;
-}
-
-export default class LibraryParser {
+export class LibraryParser {
   private readonly options: Options = {
-    versionTruncation: 1
+    versionTruncation: 1,
   };
 
   constructor(options?: Partial<Options>) {
-    this.options = {...this.options, ...options};
+    this.options = { ...this.options, ...options };
   }
 
   public parse = (userAgent: string): LibraryResult => {
     const result: LibraryResult = {
-      type: "",
-      name: "",
-      version: "",
-      url: ""
+      type: '',
+      name: '',
+      version: '',
+      url: '',
     };
 
     for (const library of libraries) {
@@ -36,10 +36,10 @@ export default class LibraryParser {
 
       if (!match) continue;
 
-      result.type = "library";
+      result.type = 'library';
       result.name = variableReplacement(library.name, match);
       result.version = formatVersion(variableReplacement(library.version, match), this.options.versionTruncation);
-      result.url = library.url || "";
+      result.url = library.url || '';
       break;
     }
 

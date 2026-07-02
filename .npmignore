@@ -1,12 +1,11 @@
-src/
+tests/
 .idea
 tsconfig.json
-tslint.json
 coverage
-.circleci
 /load-fixtures.js
 /load-fixtures.sh
 .github
-.DS_Store
 publish.sh
-jest.config.js
+tsdown.config.ts
+.oxfmtrc.json
+.oxlintrc.json

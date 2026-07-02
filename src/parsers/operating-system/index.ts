@@ -1,26 +1,26 @@
-import operatingSystems from "../../fixtures/regexes/oss.json";
-import { formatVersion } from "../../utils/version";
-import { variableReplacement } from "../../utils/variable-replacement";
-import { userAgentParser } from "../../utils/user-agent";
-import operatingSystem from "./fixtures/operating-system.json"
-
-export interface OperatingSystemResult {
-  name: string;
-  version: string;
-  platform: "ARM" | "x64" | "x86" | "MIPS" | "SuperH" | "";
-}
-
-export type Result = OperatingSystemResult | null;
+import operatingSystems from '#/fixtures/regexes/oss.json';
+import { userAgentParser } from '#/utils/user-agent';
+import { variableReplacement } from '#/utils/variable-replacement';
+import { formatVersion } from '#/utils/version';
+import operatingSystem from './fixtures/operating-system.json';
 
 interface Options {
   versionTruncation: 0 | 1 | 2 | 3 | null;
 }
 
-const desktopOsArray = ["AmigaOS","IBM","GNU/Linux","Mac","Unix","Windows","BeOS","Chrome OS"];
-const shortOsNames = operatingSystem.operatingSystem
-const osFamilies = operatingSystem.osFamilies
+const desktopOsArray = ['AmigaOS', 'IBM', 'GNU/Linux', 'Mac', 'Unix', 'Windows', 'BeOS', 'Chrome OS'];
+const shortOsNames = operatingSystem.operatingSystem;
+const osFamilies = operatingSystem.osFamilies;
 
-export default class OperatingSystemParser {
+export interface OperatingSystemResult {
+  name: string;
+  version: string;
+  platform: 'ARM' | 'x64' | 'x86' | 'MIPS' | 'SuperH' | '';
+}
+
+export type Result = OperatingSystemResult | null;
+
+export class OperatingSystemParser {
   public static getDesktopOsArray = (): string[] => desktopOsArray;
 
   public static getOsFamily = (osName: string): string => {
@@ -32,7 +32,7 @@ export default class OperatingSystemParser {
       }
     }
 
-    return "";
+    return '';
   };
 
   private static getOsShortName = (osName: string): string => {
@@ -40,22 +40,22 @@ export default class OperatingSystemParser {
       if (name === osName) return shortName;
     }
 
-    return "";
+    return '';
   };
 
   private readonly options: Options = {
-    versionTruncation: 1
+    versionTruncation: 1,
   };
 
   constructor(options?: Partial<Options>) {
-    this.options = {...this.options, ...options};
+    this.options = { ...this.options, ...options };
   }
 
   public parse = (userAgent: string): Result => {
     const result: OperatingSystemResult = {
-      name: "",
-      version: "",
-      platform: this.parsePlatform(userAgent)
+      name: '',
+      version: '',
+      platform: this.parsePlatform(userAgent),
     };
 
     for (const operatingSystem of operatingSystems) {
@@ -66,16 +66,16 @@ export default class OperatingSystemParser {
       result.name = variableReplacement(operatingSystem.name, match);
       result.version = formatVersion(variableReplacement(operatingSystem.version, match), this.options.versionTruncation);
 
-      if (result.name === "lubuntu") {
-        result.name = "Lubuntu";
+      if (result.name === 'lubuntu') {
+        result.name = 'Lubuntu';
       }
 
-      if (result.name === "debian") {
-        result.name = "Debian";
+      if (result.name === 'debian') {
+        result.name = 'Debian';
       }
 
-      if (result.name === "YunOS") {
-        result.name = "YunOs";
+      if (result.name === 'YunOS') {
+        result.name = 'YunOs';
       }
 
       return result;
@@ -85,26 +85,26 @@ export default class OperatingSystemParser {
   };
 
   private parsePlatform = (userAgent: string) => {
-    if (userAgentParser("arm|aarch64|Watch ?OS|Watch1,[12]", userAgent)) {
-      return "ARM";
+    if (userAgentParser('arm|aarch64|Watch ?OS|Watch1,[12]', userAgent)) {
+      return 'ARM';
     }
 
-    if (userAgentParser("mips", userAgent)) {
-      return "MIPS";
+    if (userAgentParser('mips', userAgent)) {
+      return 'MIPS';
     }
 
-    if (userAgentParser("sh4", userAgent)) {
-      return "SuperH";
+    if (userAgentParser('sh4', userAgent)) {
+      return 'SuperH';
     }
 
-    if (userAgentParser("WOW64|x64|win64|amd64|x86_?64", userAgent)) {
-      return "x64";
+    if (userAgentParser('WOW64|x64|win64|amd64|x86_?64', userAgent)) {
+      return 'x64';
     }
 
-    if (userAgentParser("(?:i[0-9]|x)86|i86pc", userAgent)) {
-      return "x86";
+    if (userAgentParser('(?:i[0-9]|x)86|i86pc', userAgent)) {
+      return 'x86';
     }
 
-    return "";
+    return '';
   };
 }

@@ -1,24 +1,24 @@
 {
   "compilerOptions": {
-    "rootDir": "src",
-    "module": "commonjs",
-    "target": "es2017",
-    "strict": true,
-    "declaration": true,
-    "noImplicitAny": true,
-    "skipLibCheck": true,
-    "outDir": "./dist",
+    "target": "esnext",
+    "lib": ["es2023"],
+    "moduleDetection": "force",
+    "module": "preserve",
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
-    "lib": [
-      "dom",
-      "es2017"
-    ],
-    "esModuleInterop": true
+    "types": ["bun"],
+    "strict": true,
+    "noUnusedLocals": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true,
+    "skipLibCheck": true,
+    "erasableSyntaxOnly": true,
+    "paths": {
+      "#/*": ["./src/*"]
+    }
   },
-  "include": [
-    "src/**/*"
-  ],
-  "exclude": [
-    "src/tests"
-  ]
+  "include": ["src/**/*", "tests/**/*"]
 }

@@ -11,7 +11,7 @@
       "name": "Chrome Webview",
       "version": "33.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "33.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -33,7 +33,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.143",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -55,7 +55,7 @@
       "name": "Chrome Mobile",
       "version": "52.0.2743.98",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "52.0.2743.98"
     },
     "device": {
       "type": "smartphone",
@@ -77,7 +77,7 @@
       "name": "Chrome Webview",
       "version": "39.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "39.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -143,7 +143,7 @@
       "name": "Chrome Webview",
       "version": "39.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "39.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -187,7 +187,7 @@
       "name": "Chrome Mobile",
       "version": "42.0.2311.111",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "42.0.2311.111"
     },
     "device": {
       "type": "smartphone",
@@ -231,7 +231,7 @@
       "name": "Chrome Mobile",
       "version": "72.0.3626.105",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "72.0.3626.105"
     },
     "device": {
       "type": "smartphone",
@@ -253,7 +253,7 @@
       "name": "Chrome Mobile",
       "version": "42.0.2311.111",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "42.0.2311.111"
     },
     "device": {
       "type": "smartphone",
@@ -275,7 +275,7 @@
       "name": "Chrome Mobile",
       "version": "62.0.3202.84",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "62.0.3202.84"
     },
     "device": {
       "type": "smartphone",
@@ -297,7 +297,7 @@
       "name": "Chrome Mobile",
       "version": "42.0.2311.111",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "42.0.2311.111"
     },
     "device": {
       "type": "smartphone",
@@ -363,7 +363,7 @@
       "name": "Aloha Browser",
       "version": "2.7.0.3",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "72.0.3626.121"
     },
     "device": {
       "type": "smartphone",
@@ -371,7 +371,7 @@
       "model": "U55 LTE"
     },
     "os_family": "Android",
-    "browser_family": "Unknown"
+    "browser_family": "Chrome"
   },
   {
     "user_agent": "Mozilla/5.0 (Linux; Android 9; Phone 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36",
@@ -385,7 +385,7 @@
       "name": "Chrome Mobile",
       "version": "80.0.3987.149",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "80.0.3987.149"
     },
     "device": {
       "type": "smartphone",
@@ -407,7 +407,7 @@
       "name": "Chrome Webview",
       "version": "30.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "30.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -539,7 +539,7 @@
       "name": "Chrome Webview",
       "version": "30.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "30.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -561,12 +561,12 @@
       "name": "Chrome Webview",
       "version": "30.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "30.0.0.0"
     },
     "device": {
       "type": "smartphone",
       "brand": "Stonex",
-      "model": "EVO"
+      "model": "STX EVO"
     },
     "os_family": "Android",
     "browser_family": "Chrome"
@@ -588,7 +588,7 @@
     "device": {
       "type": "smartphone",
       "brand": "Stonex",
-      "model": "Mini"
+      "model": "STX Mini"
     },
     "os_family": "Android",
     "browser_family": "Android Browser"
@@ -605,12 +605,12 @@
       "name": "Chrome Webview",
       "version": "30.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "30.0.0.0"
     },
     "device": {
       "type": "smartphone",
       "brand": "Stonex",
-      "model": "MINI 2"
+      "model": "STX MINI 2"
     },
     "os_family": "Android",
     "browser_family": "Chrome"
@@ -627,12 +627,12 @@
       "name": "Chrome Mobile",
       "version": "34.0.1847.114",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "34.0.1847.114"
     },
     "device": {
       "type": "smartphone",
       "brand": "Stonex",
-      "model": "ULTRA"
+      "model": "STX ULTRA"
     },
     "os_family": "Android",
     "browser_family": "Chrome"
@@ -649,12 +649,12 @@
       "name": "Chrome Mobile",
       "version": "43.0.2357.78",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "43.0.2357.78"
     },
     "device": {
       "type": "smartphone",
       "brand": "Stonex",
-      "model": "ULTRA 2"
+      "model": "STX ULTRA 2"
     },
     "os_family": "Android",
     "browser_family": "Chrome"
@@ -755,11 +755,11 @@
       "name": "Chrome Mobile",
       "version": "43.0.2357.92",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "43.0.2357.92"
     },
     "device": {
       "type": "smartphone",
-      "brand": "Star",
+      "brand": "Kingelon",
       "model": "N8800"
     },
     "os_family": "Android",
@@ -777,11 +777,11 @@
       "name": "Chrome Mobile",
       "version": "40.0.2214.109",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "40.0.2214.109"
     },
     "device": {
       "type": "smartphone",
-      "brand": "Star",
+      "brand": "Kingelon",
       "model": "N9500"
     },
     "os_family": "Android",
@@ -803,7 +803,7 @@
     },
     "device": {
       "type": "smartphone",
-      "brand": "Star",
+      "brand": "Kingelon",
       "model": "N9600"
     },
     "os_family": "Android",
@@ -821,11 +821,11 @@
       "name": "Chrome Mobile",
       "version": "34.0.1847.114",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "34.0.1847.114"
     },
     "device": {
       "type": "smartphone",
-      "brand": "Star",
+      "brand": "Kingelon",
       "model": "N9700"
     },
     "os_family": "Android",
@@ -847,7 +847,7 @@
     },
     "device": {
       "type": "smartphone",
-      "brand": "Star",
+      "brand": "Kingelon",
       "model": "N9800"
     },
     "os_family": "Android",
@@ -869,7 +869,7 @@
     },
     "device": {
       "type": "smartphone",
-      "brand": "Star",
+      "brand": "Kingelon",
       "model": "N9977"
     },
     "os_family": "Android",
@@ -887,12 +887,12 @@
       "name": "Chrome Webview",
       "version": "30.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "30.0.0.0"
     },
     "device": {
       "type": "smartphone",
-      "brand": "Star",
-      "model": "Note 3"
+      "brand": "Kingelon",
+      "model": "N9000"
     },
     "os_family": "Android",
     "browser_family": "Chrome"
@@ -909,7 +909,7 @@
       "name": "Chrome Mobile",
       "version": "56.0.2924.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -931,7 +931,7 @@
       "name": "Chrome Mobile",
       "version": "47.0.2526.83",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "47.0.2526.83"
     },
     "device": {
       "type": "smartphone",
@@ -953,7 +953,7 @@
       "name": "Chrome Mobile",
       "version": "56.0.2924.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -975,7 +975,7 @@
       "name": "Chrome Mobile",
       "version": "46.0.2490.76",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "46.0.2490.76"
     },
     "device": {
       "type": "smartphone",
@@ -997,7 +997,7 @@
       "name": "Chrome Mobile",
       "version": "73.0.3683.90",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "73.0.3683.90"
     },
     "device": {
       "type": "smartphone",
@@ -1019,7 +1019,7 @@
       "name": "Chrome Webview",
       "version": "76.0.3809.89",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "76.0.3809.89"
     },
     "device": {
       "type": "smartphone",
@@ -1032,8 +1032,8 @@
   {
     "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; SM919 Build/MXB48T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043024 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/WIFI Language/zh_CN",
     "os": {
-      "name": "Android",
-      "version": "6.0.1",
+      "name": "Smartisan OS",
+      "version": "3.0",
       "platform": ""
     },
     "client": {
@@ -1052,16 +1052,16 @@
   {
     "user_agent": "Mozilla/5.0 (Linux; U; Android 7.1.2; zh-cn; OC106 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
     "os": {
-      "name": "Android",
-      "version": "7.1.2",
+      "name": "Smartisan OS",
+      "version": "6.0",
       "platform": ""
     },
     "client": {
       "type": "browser",
       "name": "QQ Browser",
       "version": "8.9",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.132"
     },
     "device": {
       "type": "smartphone",
@@ -1074,16 +1074,16 @@
   {
     "user_agent": "Mozilla/5.0 (Linux; U; Android 7.1.2; zh-CN; OC105 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.9.7.1077 Mobile Safari/537.36",
     "os": {
-      "name": "Android",
-      "version": "7.1.2",
+      "name": "Smartisan OS",
+      "version": "6.0",
       "platform": ""
     },
     "client": {
       "type": "browser",
       "name": "UC Browser",
       "version": "12.9.7.1077",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -1096,16 +1096,16 @@
   {
     "user_agent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; OE106 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/10.3 Mobile Safari/537.36",
     "os": {
-      "name": "Android",
-      "version": "8.1.0",
+      "name": "Smartisan OS",
+      "version": "6.0",
       "platform": ""
     },
     "client": {
       "type": "browser",
       "name": "QQ Browser",
       "version": "10.3",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "66.0.3359.126"
     },
     "device": {
       "type": "smartphone",
@@ -1118,16 +1118,16 @@
   {
     "user_agent": "Mozilla/5.0 (Linux; U; Android 9; zh-CN; DT1901A Build/PKQ1.190727.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/12.8.9.1069 Mobile Safari/537.36",
     "os": {
-      "name": "Android",
-      "version": "9",
+      "name": "Smartisan OS",
+      "version": "6.0",
       "platform": ""
     },
     "client": {
       "type": "browser",
       "name": "UC Browser",
       "version": "12.8.9.1069",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "78.0.3904.108"
     },
     "device": {
       "type": "smartphone",
@@ -1148,8 +1148,8 @@
       "type": "browser",
       "name": "QQ Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "53.0.2785.49"
     },
     "device": {
       "type": "smartphone",
@@ -1170,8 +1170,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "12.9.8.1078",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -1184,8 +1184,8 @@
   {
     "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; DE106 Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile",
     "os": {
-      "name": "Android",
-      "version": "8.1.0",
+      "name": "Smartisan OS",
+      "version": "6.0",
       "platform": ""
     },
     "client": {
@@ -1193,7 +1193,7 @@
       "name": "Chrome Webview",
       "version": "76.0.3809.89",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "76.0.3809.89"
     },
     "device": {
       "type": "smartphone",
@@ -1206,14 +1206,14 @@
   {
     "user_agent": "Mozilla/5.0 (Linux; U; Android 4.4.2; zh-cn; SM701 Build/SANFRANCISCO) AppleWebKit/533.1 (KHTML, like Gecko)Version/4.0 MQQBrowser/5.4 TBS/025469 Mobile Safari/533.1 MicroMessenger/6.2.5.49_r7ead8bf.620 NetType/WIFI Language/zh_CN QQ/6.6.0.2935",
     "os": {
-      "name": "Android",
-      "version": "4.4.2",
+      "name": "Smartisan OS",
+      "version": "1.5",
       "platform": ""
     },
     "client": {
       "type": "mobile app",
       "name": "WeChat",
-      "version": "6.2.5.49.r7ead8bf.620"
+      "version": "6.2.5.49"
     },
     "device": {
       "type": "smartphone",
@@ -1226,8 +1226,8 @@
   {
     "user_agent": "Mozilla/5.0 (Linux; Android 5.1.1; SM801 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043024 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN",
     "os": {
-      "name": "Android",
-      "version": "5.1.1",
+      "name": "Smartisan OS",
+      "version": "2.5",
       "platform": ""
     },
     "client": {
@@ -1246,8 +1246,8 @@
   {
     "user_agent": "Mozilla/5.0 (Linux; U; Android 5.1.1; zh-CN; YQ601 Build/LMY47V) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.9.3.727 U3/0.8.0 Mobile Safari/534.30",
     "os": {
-      "name": "Android",
-      "version": "5.1.1",
+      "name": "Smartisan OS",
+      "version": "2.0",
       "platform": ""
     },
     "client": {
@@ -1277,7 +1277,7 @@
       "name": "Chrome Webview",
       "version": "39.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "39.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -1299,7 +1299,7 @@
       "name": "Chrome Mobile",
       "version": "62.0.3202.84",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "62.0.3202.84"
     },
     "device": {
       "type": "smartphone",
@@ -1321,7 +1321,7 @@
       "name": "Chrome Mobile",
       "version": "63.0.3239.111",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -1387,7 +1387,7 @@
       "name": "Chrome Mobile",
       "version": "79.0.3945.116",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "79.0.3945.116"
     },
     "device": {
       "type": "smartphone",
@@ -1408,8 +1408,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "11.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -1431,7 +1431,7 @@
       "name": "Chrome Mobile",
       "version": "72.0.3626.121",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "72.0.3626.121"
     },
     "device": {
       "type": "smartphone",
@@ -1453,7 +1453,7 @@
       "name": "Yandex Browser",
       "version": "8.60",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "74.0.3729.157"
     },
     "device": {
       "type": "smartphone",
@@ -1475,7 +1475,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.143",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -1497,7 +1497,7 @@
       "name": "Chrome Mobile",
       "version": "80.0.3987.119",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "80.0.3987.119"
     },
     "device": {
       "type": "smartphone",
@@ -1519,7 +1519,7 @@
       "name": "Chrome Webview",
       "version": "83.0.4103.96",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.96"
     },
     "device": {
       "type": "smartphone",
@@ -1540,8 +1540,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "9.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -1563,7 +1563,7 @@
       "name": "Chrome Mobile",
       "version": "77.0.3865.92",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "77.0.3865.92"
     },
     "device": {
       "type": "smartphone",
@@ -1585,7 +1585,7 @@
       "name": "Yandex Browser",
       "version": "19.9.1.126.00",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "76.0.3809.132"
     },
     "device": {
       "type": "smartphone",
@@ -1606,8 +1606,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -1629,7 +1629,7 @@
       "name": "Chrome Mobile",
       "version": "70.0.3538.110",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "70.0.3538.110"
     },
     "device": {
       "type": "smartphone",
@@ -1673,7 +1673,7 @@
       "name": "Chrome Mobile",
       "version": "72.0.3626.121",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "72.0.3626.121"
     },
     "device": {
       "type": "smartphone",
@@ -1695,7 +1695,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -1717,7 +1717,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -1739,7 +1739,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -1761,7 +1761,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.96",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.96"
     },
     "device": {
       "type": "smartphone",
@@ -1782,8 +1782,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -1804,8 +1804,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "9.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -1827,7 +1827,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.96",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.96"
     },
     "device": {
       "type": "smartphone",
@@ -1848,8 +1848,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "11.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -1892,8 +1892,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -1915,7 +1915,7 @@
       "name": "Chrome Mobile",
       "version": "31.0.1650.59",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "31.0.1650.59"
     },
     "device": {
       "type": "smartphone",
@@ -1937,7 +1937,7 @@
       "name": "Chrome Mobile",
       "version": "36.0.1985.135",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "36.0.1985.135"
     },
     "device": {
       "type": "smartphone",
@@ -1959,7 +1959,7 @@
       "name": "Chrome Mobile",
       "version": "68.0.3440.85",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.85"
     },
     "device": {
       "type": "smartphone",
@@ -1981,7 +1981,7 @@
       "name": "Chrome Mobile",
       "version": "78.0.3904.90",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "78.0.3904.90"
     },
     "device": {
       "type": "smartphone",
@@ -2002,8 +2002,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "3.3",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "38.0.2125.102"
     },
     "device": {
       "type": "smartphone",
@@ -2024,8 +2024,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -2047,7 +2047,7 @@
       "name": "Chrome Mobile",
       "version": "78.0.3904.62",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "78.0.3904.62"
     },
     "device": {
       "type": "smartphone",
@@ -2068,8 +2068,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "3.5",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "38.0.2125.102"
     },
     "device": {
       "type": "smartphone",
@@ -2090,8 +2090,8 @@
       "type": "browser",
       "name": "Ecosia",
       "version": "62.0.3202.101",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "62.0.3202.101"
     },
     "device": {
       "type": "smartphone",
@@ -2112,8 +2112,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "5.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "51.0.2704.106"
     },
     "device": {
       "type": "smartphone",
@@ -2134,8 +2134,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -2156,8 +2156,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "4.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "44.0.2403.133"
     },
     "device": {
       "type": "smartphone",
@@ -2178,8 +2178,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "9.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -2201,7 +2201,7 @@
       "name": "Chrome Mobile",
       "version": "62.0.3202.84",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "62.0.3202.84"
     },
     "device": {
       "type": "smartphone",
@@ -2223,7 +2223,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -2245,7 +2245,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.96",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.96"
     },
     "device": {
       "type": "smartphone",
@@ -2267,7 +2267,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.101",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.101"
     },
     "device": {
       "type": "smartphone",
@@ -2311,7 +2311,7 @@
       "name": "Chrome Webview",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -2332,8 +2332,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -2355,7 +2355,7 @@
       "name": "Chrome Webview",
       "version": "77.0.3865.73",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "77.0.3865.73"
     },
     "device": {
       "type": "smartphone",
@@ -2377,7 +2377,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -2399,7 +2399,7 @@
       "name": "Chrome Mobile",
       "version": "76.0.3809.132",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "76.0.3809.132"
     },
     "device": {
       "type": "smartphone",
@@ -2421,7 +2421,7 @@
       "name": "Chrome Mobile",
       "version": "84.0.4147.89",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "84.0.4147.89"
     },
     "device": {
       "type": "smartphone",
@@ -2443,7 +2443,7 @@
       "name": "Chrome Webview",
       "version": "80.0.3987.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "80.0.3987.99"
     },
     "device": {
       "type": "smartphone",
@@ -2465,7 +2465,7 @@
       "name": "Chrome Mobile",
       "version": "36.0.1985.534",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "36.0.1985.534"
     },
     "device": {
       "type": "smartphone",
@@ -2487,7 +2487,7 @@
       "name": "Chrome Mobile",
       "version": "65.0.3325.109",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "65.0.3325.109"
     },
     "device": {
       "type": "smartphone",
@@ -2509,7 +2509,7 @@
       "name": "Chrome Mobile",
       "version": "81.0.4044.96",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "81.0.4044.96"
     },
     "device": {
       "type": "smartphone",
@@ -2531,7 +2531,7 @@
       "name": "Chrome Mobile",
       "version": "46.0.2490.76",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "46.0.2490.76"
     },
     "device": {
       "type": "smartphone",
@@ -2553,7 +2553,7 @@
       "name": "Chrome Mobile",
       "version": "67.0.3396.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -2575,7 +2575,7 @@
       "name": "Chrome Mobile",
       "version": "63.0.3239.111",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -2619,7 +2619,7 @@
       "name": "Chrome Mobile",
       "version": "43.0.2357.93",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "43.0.2357.93"
     },
     "device": {
       "type": "smartphone",
@@ -2641,7 +2641,7 @@
       "name": "Chrome Mobile",
       "version": "64.0.3282.123",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "64.0.3282.123"
     },
     "device": {
       "type": "smartphone",
@@ -2663,7 +2663,7 @@
       "name": "Chrome Mobile",
       "version": "77.0.3865.116",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "77.0.3865.116"
     },
     "device": {
       "type": "smartphone",
@@ -2684,8 +2684,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "3.5",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "38.0.2125.102"
     },
     "device": {
       "type": "smartphone",
@@ -2706,8 +2706,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "5.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "51.0.2704.106"
     },
     "device": {
       "type": "smartphone",
@@ -2729,7 +2729,7 @@
       "name": "Chrome Mobile",
       "version": "67.0.3396.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -2750,8 +2750,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -2772,8 +2772,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "12.11.9.1215",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -2795,7 +2795,7 @@
       "name": "Chrome Mobile",
       "version": "74.0.3729.136",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "74.0.3729.136"
     },
     "device": {
       "type": "smartphone",
@@ -2817,7 +2817,7 @@
       "name": "Chrome Mobile",
       "version": "63.0.3239.111",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -2839,7 +2839,7 @@
       "name": "Chrome Mobile",
       "version": "63.0.3239.111",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -2860,8 +2860,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -2882,8 +2882,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -2904,8 +2904,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -2927,7 +2927,7 @@
       "name": "Chrome Webview",
       "version": "34.0.1847.76",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "34.0.1847.76"
     },
     "device": {
       "type": "smartphone",
@@ -2949,7 +2949,7 @@
       "name": "Chrome Mobile",
       "version": "55.0.2883.91",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "55.0.2883.91"
     },
     "device": {
       "type": "smartphone",
@@ -2971,7 +2971,7 @@
       "name": "Chrome",
       "version": "77.0.3865.92",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "77.0.3865.92"
     },
     "device": {
       "type": "smartphone",
@@ -2993,7 +2993,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.101",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.101"
     },
     "device": {
       "type": "smartphone",
@@ -3014,8 +3014,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -3037,7 +3037,7 @@
       "name": "Chrome Mobile",
       "version": "79.0.3945.116",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "79.0.3945.116"
     },
     "device": {
       "type": "smartphone",
@@ -3059,7 +3059,7 @@
       "name": "Chrome Mobile",
       "version": "81.0.4044.138",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "81.0.4044.138"
     },
     "device": {
       "type": "smartphone",
@@ -3081,7 +3081,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.101",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.101"
     },
     "device": {
       "type": "smartphone",
@@ -3103,7 +3103,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -3124,8 +3124,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -3146,8 +3146,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -3169,7 +3169,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.96",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.96"
     },
     "device": {
       "type": "smartphone",
@@ -3190,8 +3190,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "9.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -3212,8 +3212,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "11.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -3235,7 +3235,7 @@
       "name": "Chrome Mobile",
       "version": "66.0.3359.126",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "66.0.3359.126"
     },
     "device": {
       "type": "smartphone",
@@ -3257,7 +3257,7 @@
       "name": "Chrome Mobile",
       "version": "68.0.3440.91",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.91"
     },
     "device": {
       "type": "smartphone",
@@ -3279,7 +3279,7 @@
       "name": "Chrome Mobile",
       "version": "71.0.3578.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -3301,7 +3301,7 @@
       "name": "Chrome Mobile",
       "version": "71.0.3578.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -3323,7 +3323,7 @@
       "name": "Chrome Mobile",
       "version": "72.0.3626.105",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "72.0.3626.105"
     },
     "device": {
       "type": "smartphone",
@@ -3345,7 +3345,7 @@
       "name": "Chrome Mobile",
       "version": "72.0.3626.105",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "72.0.3626.105"
     },
     "device": {
       "type": "smartphone",
@@ -3367,7 +3367,7 @@
       "name": "Chrome Mobile",
       "version": "72.0.3626.105",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "72.0.3626.105"
     },
     "device": {
       "type": "smartphone",
@@ -3389,7 +3389,7 @@
       "name": "Chrome Mobile",
       "version": "74.0.3729.157",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "74.0.3729.157"
     },
     "device": {
       "type": "smartphone",
@@ -3411,7 +3411,7 @@
       "name": "Chrome Webview",
       "version": "44.0.2403.119",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "44.0.2403.119"
     },
     "device": {
       "type": "smartphone",
@@ -3432,8 +3432,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -3454,8 +3454,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "8.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -3477,7 +3477,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.101",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.101"
     },
     "device": {
       "type": "smartphone",
@@ -3498,8 +3498,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -3520,8 +3520,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "9.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -3543,7 +3543,7 @@
       "name": "Chrome Mobile",
       "version": "71.0.3578.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -3565,7 +3565,7 @@
       "name": "Chrome Webview",
       "version": "80.0.3987.132",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "80.0.3987.132"
     },
     "device": {
       "type": "smartphone",
@@ -3586,8 +3586,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -3608,8 +3608,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -3630,8 +3630,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -3653,7 +3653,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.143",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -3674,8 +3674,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "9.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -3696,8 +3696,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "12.12.5.1189",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -3741,7 +3741,7 @@
       "name": "Chrome Mobile",
       "version": "40.0.2214.109",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "40.0.2214.109"
     },
     "device": {
       "type": "smartphone",
@@ -3763,7 +3763,7 @@
       "name": "Chrome Mobile",
       "version": "51.0.2704.81",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "51.0.2704.81"
     },
     "device": {
       "type": "smartphone",
@@ -3784,8 +3784,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "3.3",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "38.0.2125.102"
     },
     "device": {
       "type": "smartphone",
@@ -3806,8 +3806,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -3829,7 +3829,7 @@
       "name": "Chrome Mobile",
       "version": "63.0.3239.111",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -3851,7 +3851,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -3872,8 +3872,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -3895,7 +3895,7 @@
       "name": "Chrome Mobile",
       "version": "61.0.3163.98",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "61.0.3163.98"
     },
     "device": {
       "type": "smartphone",
@@ -3916,8 +3916,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "5.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "51.0.2704.106"
     },
     "device": {
       "type": "smartphone",
@@ -3938,8 +3938,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -3961,7 +3961,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.143",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -3982,8 +3982,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -4005,7 +4005,7 @@
       "name": "Chrome Mobile",
       "version": "71.0.3578.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -4027,7 +4027,7 @@
       "name": "Chrome Mobile",
       "version": "67.0.3396.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -4049,7 +4049,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.143",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -4070,8 +4070,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -4092,8 +4092,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "8.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -4115,7 +4115,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.89",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.89"
     },
     "device": {
       "type": "smartphone",
@@ -4137,7 +4137,7 @@
       "name": "Chrome Mobile",
       "version": "84.0.4147.84",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "84.0.4147.84"
     },
     "device": {
       "type": "smartphone",
@@ -4159,7 +4159,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.101",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.101"
     },
     "device": {
       "type": "smartphone",
@@ -4181,7 +4181,7 @@
       "name": "Chrome Webview",
       "version": "78.0.3904.108",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "78.0.3904.108"
     },
     "device": {
       "type": "smartphone",
@@ -4202,8 +4202,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "12.12.0.1187",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -4225,7 +4225,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -4246,8 +4246,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -4269,7 +4269,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -4291,7 +4291,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.83",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.83"
     },
     "device": {
       "type": "smartphone",
@@ -4313,7 +4313,7 @@
       "name": "Chrome Mobile",
       "version": "84.0.4147.89",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "84.0.4147.89"
     },
     "device": {
       "type": "smartphone",
@@ -4379,7 +4379,7 @@
       "name": "Chrome Mobile",
       "version": "55.0.2883.91",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "55.0.2883.91"
     },
     "device": {
       "type": "smartphone",
@@ -4401,7 +4401,7 @@
       "name": "Chrome Mobile",
       "version": "64.0.3282.137",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "64.0.3282.137"
     },
     "device": {
       "type": "smartphone",
@@ -4423,7 +4423,7 @@
       "name": "Chrome Mobile",
       "version": "71.0.3578.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -4444,8 +4444,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "5.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "51.0.2704.106"
     },
     "device": {
       "type": "smartphone",
@@ -4467,7 +4467,7 @@
       "name": "Chrome Mobile",
       "version": "65.0.3325.109",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "65.0.3325.109"
     },
     "device": {
       "type": "smartphone",
@@ -4509,7 +4509,7 @@
       "name": "Chrome Mobile",
       "version": "63.0.3239.111",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -4531,7 +4531,7 @@
       "name": "Chrome Mobile",
       "version": "67.0.3396.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -4552,8 +4552,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -4575,7 +4575,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.143",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -4596,8 +4596,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -4618,8 +4618,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -4641,7 +4641,7 @@
       "name": "Yandex Browser",
       "version": "8.30",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "73.0.3683.103"
     },
     "device": {
       "type": "smartphone",
@@ -4663,7 +4663,7 @@
       "name": "Chrome Mobile",
       "version": "68.0.3440.91",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.91"
     },
     "device": {
       "type": "smartphone",
@@ -4684,8 +4684,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -4706,8 +4706,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "8.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -4729,7 +4729,7 @@
       "name": "Chrome Mobile",
       "version": "61.0.3163.98",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "61.0.3163.98"
     },
     "device": {
       "type": "smartphone",
@@ -4750,8 +4750,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -4772,8 +4772,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -4794,8 +4794,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -4816,8 +4816,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -4839,7 +4839,7 @@
       "name": "Chrome Mobile",
       "version": "80.0.3987.162",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "80.0.3987.162"
     },
     "device": {
       "type": "smartphone",
@@ -4861,7 +4861,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.83",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.83"
     },
     "device": {
       "type": "smartphone",
@@ -4882,8 +4882,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "4.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "44.0.2403.133"
     },
     "device": {
       "type": "smartphone",
@@ -4926,8 +4926,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -4948,8 +4948,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "11.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -4970,8 +4970,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "12.10.6.1200",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -4993,7 +4993,7 @@
       "name": "Chrome Webview",
       "version": "39.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "39.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -5014,8 +5014,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -5037,7 +5037,7 @@
       "name": "Chrome Webview",
       "version": "66.0.3359.126",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "66.0.3359.126"
     },
     "device": {
       "type": "smartphone",
@@ -5058,8 +5058,8 @@
       "type": "browser",
       "name": "Mint Browser",
       "version": "2.2.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "61.0.3163.128"
     },
     "device": {
       "type": "smartphone",
@@ -5080,8 +5080,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -5103,7 +5103,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.83",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.83"
     },
     "device": {
       "type": "smartphone",
@@ -5124,8 +5124,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "11.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -5146,8 +5146,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -5433,7 +5433,7 @@
       "name": "Chrome Webview",
       "version": "30.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "30.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -5521,7 +5521,7 @@
       "name": "Chrome Mobile",
       "version": "33.0.1750.517",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "33.0.1750.517"
     },
     "device": {
       "type": "smartphone",
@@ -5543,7 +5543,7 @@
       "name": "Chrome Mobile",
       "version": "33.0.1750.517",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "33.0.1750.517"
     },
     "device": {
       "type": "smartphone",
@@ -5565,7 +5565,7 @@
       "name": "Chrome Mobile",
       "version": "50.0.2661.89",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "50.0.2661.89"
     },
     "device": {
       "type": "smartphone",
@@ -5587,7 +5587,7 @@
       "name": "Chrome Mobile",
       "version": "60.0.3112.116",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "60.0.3112.116"
     },
     "device": {
       "type": "smartphone",
@@ -5631,7 +5631,7 @@
       "name": "Chrome Mobile",
       "version": "35.0.1916.141",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "35.0.1916.141"
     },
     "device": {
       "type": "smartphone",
@@ -5653,7 +5653,7 @@
       "name": "Chrome Mobile",
       "version": "36.0.1985.135",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "36.0.1985.135"
     },
     "device": {
       "type": "smartphone",
@@ -5675,7 +5675,7 @@
       "name": "Chrome Mobile",
       "version": "59.0.3071.125",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -5697,7 +5697,7 @@
       "name": "Opera Mobile",
       "version": "36.2.2254.130496",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "30.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -5719,7 +5719,7 @@
       "name": "Chrome Mobile",
       "version": "77.0.3865.92",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "77.0.3865.92"
     },
     "device": {
       "type": "smartphone",
@@ -5740,8 +5740,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "2.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "34.0.1847.76"
     },
     "device": {
       "type": "smartphone",
@@ -5807,7 +5807,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.143",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -5850,8 +5850,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "11.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -5873,7 +5873,7 @@
       "name": "Chrome Mobile",
       "version": "35.0.1916.141",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "35.0.1916.141"
     },
     "device": {
       "type": "smartphone",
@@ -5895,7 +5895,7 @@
       "name": "Chrome Mobile",
       "version": "61.0.3163.98",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "61.0.3163.98"
     },
     "device": {
       "type": "smartphone",
@@ -5917,7 +5917,7 @@
       "name": "Chrome Mobile",
       "version": "64.0.3282.137",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "64.0.3282.137"
     },
     "device": {
       "type": "smartphone",
@@ -5983,7 +5983,7 @@
       "name": "Chrome Mobile",
       "version": "63.0.3239.111",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -6004,8 +6004,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "2.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "34.0.1847.76"
     },
     "device": {
       "type": "smartphone",
@@ -6027,7 +6027,7 @@
       "name": "Chrome Mobile",
       "version": "50.0.2661.89",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "50.0.2661.89"
     },
     "device": {
       "type": "smartphone",
@@ -6049,7 +6049,7 @@
       "name": "Chrome",
       "version": "79.0.3945.88",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "79.0.3945.88"
     },
     "device": {
       "type": "smartphone",
@@ -6071,7 +6071,7 @@
       "name": "Chrome Mobile",
       "version": "70.0.3538.110",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "70.0.3538.110"
     },
     "device": {
       "type": "smartphone",
@@ -6115,7 +6115,7 @@
       "name": "Chrome Webview",
       "version": "28.0.1500.94",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "28.0.1500.94"
     },
     "device": {
       "type": "smartphone",
@@ -6136,8 +6136,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "11.5.0.1015",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "40.0.2214.89"
     },
     "device": {
       "type": "smartphone",
@@ -6203,7 +6203,7 @@
       "name": "Yandex Browser",
       "version": "18.11.1.1011.00",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "70.0.3538.102"
     },
     "device": {
       "type": "smartphone",
@@ -6224,8 +6224,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -6246,8 +6246,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "5.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "51.0.2704.106"
     },
     "device": {
       "type": "smartphone",
@@ -6268,8 +6268,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -6290,8 +6290,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "4.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "44.0.2403.133"
     },
     "device": {
       "type": "smartphone",
@@ -6313,7 +6313,7 @@
       "name": "Chrome Mobile",
       "version": "65.0.3325.109",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "65.0.3325.109"
     },
     "device": {
       "type": "smartphone",
@@ -6334,8 +6334,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "4.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "44.0.2403.133"
     },
     "device": {
       "type": "smartphone",
@@ -6356,8 +6356,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -6378,8 +6378,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -6400,8 +6400,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -6423,7 +6423,7 @@
       "name": "Chrome Mobile",
       "version": "56.0.2924.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -6444,8 +6444,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "12.0.0.1088",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -6467,7 +6467,7 @@
       "name": "Chrome Mobile",
       "version": "32.0.1700.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "32.0.1700.99"
     },
     "device": {
       "type": "smartphone",
@@ -6599,7 +6599,7 @@
       "name": "Chrome Mobile",
       "version": "34.0.1847.114",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "34.0.1847.114"
     },
     "device": {
       "type": "smartphone",
@@ -6686,8 +6686,8 @@
       "type": "browser",
       "name": "UC Browser Mini",
       "version": "",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "30.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -6709,7 +6709,7 @@
       "name": "Chrome Webview",
       "version": "28.0.1500.94",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "28.0.1500.94"
     },
     "device": {
       "type": "smartphone",
@@ -6775,7 +6775,7 @@
       "name": "Chrome Mobile",
       "version": "74.0.3729.157",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "74.0.3729.157"
     },
     "device": {
       "type": "smartphone",
@@ -6797,7 +6797,7 @@
       "name": "Chrome Mobile",
       "version": "78.0.3904.96",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "78.0.3904.96"
     },
     "device": {
       "type": "smartphone",
@@ -6818,8 +6818,8 @@
       "type": "browser",
       "name": "QQ Browser",
       "version": "5.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "30.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -6841,7 +6841,7 @@
       "name": "Chrome Mobile",
       "version": "31.0.1650.59",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "31.0.1650.59"
     },
     "device": {
       "type": "smartphone",
@@ -6863,7 +6863,7 @@
       "name": "Chrome Mobile",
       "version": "81.0.4044.138",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "81.0.4044.138"
     },
     "device": {
       "type": "smartphone",
@@ -6885,7 +6885,7 @@
       "name": "Chrome Mobile",
       "version": "67.0.3396.81",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "67.0.3396.81"
     },
     "device": {
       "type": "smartphone",
@@ -6929,7 +6929,7 @@
       "name": "Chrome Mobile",
       "version": "31.0.1650.59",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "31.0.1650.59"
     },
     "device": {
       "type": "smartphone",
@@ -6951,7 +6951,7 @@
       "name": "Chrome Mobile",
       "version": "81.0.4044.138",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "81.0.4044.138"
     },
     "device": {
       "type": "smartphone",
@@ -6973,7 +6973,7 @@
       "name": "Chrome Webview",
       "version": "37.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "37.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -6995,7 +6995,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -7017,7 +7017,7 @@
       "name": "Chrome Mobile",
       "version": "68.0.3440.85",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.85"
     },
     "device": {
       "type": "smartphone",
@@ -7039,7 +7039,7 @@
       "name": "Chrome Mobile",
       "version": "65.0.3325.109",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "65.0.3325.109"
     },
     "device": {
       "type": "smartphone",
@@ -7168,9 +7168,9 @@
     },
     "client": {
       "type": "browser",
-      "name": "Opera Mini",
-      "version": "7.1.32052",
-      "engine": "Presto",
+      "name": "UC Browser",
+      "version": "9.0.0.366",
+      "engine": "",
       "engine_version": ""
     },
     "device": {
@@ -7179,7 +7179,7 @@
       "model": "Galaxy FAME Duos"
     },
     "os_family": "GNU/Linux",
-    "browser_family": "Opera"
+    "browser_family": "Unknown"
   },
   {
     "user_agent": "Mozilla/5.0 (Linux; Android 4.1.2; GT-S6790 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36",
@@ -7193,7 +7193,7 @@
       "name": "Chrome Mobile",
       "version": "28.0.1500.94",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "28.0.1500.94"
     },
     "device": {
       "type": "smartphone",
@@ -7214,8 +7214,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -7281,7 +7281,7 @@
       "name": "Opera Mobile",
       "version": "42.0.2254.139276",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "74.0.3729.157"
     },
     "device": {
       "type": "smartphone",
@@ -7302,8 +7302,8 @@
       "type": "browser",
       "name": "QQ Browser",
       "version": "8.8",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.132"
     },
     "device": {
       "type": "smartphone",
@@ -7347,7 +7347,7 @@
       "name": "Chrome Mobile",
       "version": "40.0.2214.109",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "40.0.2214.109"
     },
     "device": {
       "type": "smartphone",
@@ -7369,7 +7369,7 @@
       "name": "Chrome Mobile",
       "version": "51.0.2704.81",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "51.0.2704.81"
     },
     "device": {
       "type": "smartphone",
@@ -7390,8 +7390,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "3.3",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "38.0.2125.102"
     },
     "device": {
       "type": "smartphone",
@@ -7435,7 +7435,7 @@
       "name": "Chrome Mobile",
       "version": "67.0.3396.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -7456,8 +7456,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "2.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "34.0.1847.76"
     },
     "device": {
       "type": "smartphone",
@@ -7479,7 +7479,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -7523,7 +7523,7 @@
       "name": "Chrome Mobile",
       "version": "60.0.3112.116",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "60.0.3112.116"
     },
     "device": {
       "type": "smartphone",
@@ -7545,7 +7545,7 @@
       "name": "Chrome Mobile",
       "version": "78.0.3904.96",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "78.0.3904.96"
     },
     "device": {
       "type": "smartphone",
@@ -7567,7 +7567,7 @@
       "name": "Chrome Mobile",
       "version": "66.0.3359.126",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "66.0.3359.126"
     },
     "device": {
       "type": "smartphone",
@@ -7589,7 +7589,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.101",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.101"
     },
     "device": {
       "type": "smartphone",
@@ -7610,8 +7610,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "2.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "34.0.1847.76"
     },
     "device": {
       "type": "smartphone",
@@ -7632,8 +7632,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "2.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "34.0.1847.76"
     },
     "device": {
       "type": "smartphone",
@@ -7655,7 +7655,7 @@
       "name": "Chrome Mobile",
       "version": "59.0.3071.125",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -7721,7 +7721,7 @@
       "name": "Chrome Mobile",
       "version": "68.0.3440.70",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.70"
     },
     "device": {
       "type": "smartphone",
@@ -7743,7 +7743,7 @@
       "name": "Chrome Mobile",
       "version": "77.0.3865.92",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "77.0.3865.92"
     },
     "device": {
       "type": "smartphone",
@@ -7765,7 +7765,7 @@
       "name": "Yandex Browser",
       "version": "8.45",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "73.0.3683.103"
     },
     "device": {
       "type": "smartphone",
@@ -7787,7 +7787,7 @@
       "name": "Opera Mobile",
       "version": "20.1.2254.110627",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.101"
     },
     "device": {
       "type": "smartphone",
@@ -7809,7 +7809,7 @@
       "name": "Opera Mobile",
       "version": "43.2.2254.140293",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.101"
     },
     "device": {
       "type": "smartphone",
@@ -7831,7 +7831,7 @@
       "name": "Chrome Mobile",
       "version": "55.0.2883.91",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "55.0.2883.91"
     },
     "device": {
       "type": "smartphone",
@@ -7853,7 +7853,7 @@
       "name": "Chrome Mobile",
       "version": "56.0.2924.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -7874,8 +7874,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -7963,7 +7963,7 @@
       "name": "Chrome Mobile",
       "version": "70.0.3538.110",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "70.0.3538.110"
     },
     "device": {
       "type": "smartphone",
@@ -7985,7 +7985,7 @@
       "name": "Chrome Mobile",
       "version": "78.0.3904.108",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "78.0.3904.108"
     },
     "device": {
       "type": "smartphone",
@@ -8006,8 +8006,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -8028,8 +8028,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -8050,8 +8050,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "8.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -8073,7 +8073,7 @@
       "name": "Chrome Mobile",
       "version": "52.0.2743.98",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "52.0.2743.98"
     },
     "device": {
       "type": "smartphone",
@@ -8095,7 +8095,7 @@
       "name": "Chrome Mobile",
       "version": "68.0.3440.70",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.70"
     },
     "device": {
       "type": "smartphone",
@@ -8117,7 +8117,7 @@
       "name": "Chrome Mobile",
       "version": "74.0.3729.157",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "74.0.3729.157"
     },
     "device": {
       "type": "smartphone",
@@ -8139,7 +8139,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.89",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.89"
     },
     "device": {
       "type": "smartphone",
@@ -8160,8 +8160,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -8182,8 +8182,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "9.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -8227,7 +8227,7 @@
       "name": "Chrome Mobile",
       "version": "55.0.2883.91",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "55.0.2883.91"
     },
     "device": {
       "type": "smartphone",
@@ -8249,7 +8249,7 @@
       "name": "Chrome Mobile",
       "version": "67.0.3396.68",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "67.0.3396.68"
     },
     "device": {
       "type": "smartphone",
@@ -8270,8 +8270,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "3.5",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "38.0.2125.102"
     },
     "device": {
       "type": "smartphone",
@@ -8292,8 +8292,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "3.5",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "38.0.2125.102"
     },
     "device": {
       "type": "smartphone",
@@ -8314,8 +8314,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "3.5",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "38.0.2125.102"
     },
     "device": {
       "type": "smartphone",
@@ -8336,8 +8336,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -8359,7 +8359,7 @@
       "name": "Chrome Mobile",
       "version": "54.0.2840.85",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "54.0.2840.85"
     },
     "device": {
       "type": "smartphone",
@@ -8381,7 +8381,7 @@
       "name": "Chrome Mobile",
       "version": "71.0.3578.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -8403,7 +8403,7 @@
       "name": "Chrome Mobile",
       "version": "71.0.3578.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -8425,7 +8425,7 @@
       "name": "Chrome Mobile",
       "version": "68.0.3440.85",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.85"
     },
     "device": {
       "type": "smartphone",
@@ -8446,8 +8446,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -8468,8 +8468,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "11.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -8491,7 +8491,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -8513,7 +8513,7 @@
       "name": "Chrome Mobile",
       "version": "84.0.4147.44",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "84.0.4147.44"
     },
     "device": {
       "type": "smartphone",
@@ -8534,8 +8534,8 @@
       "type": "browser",
       "name": "UC Browser Turbo",
       "version": "1.4.6.900",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -8578,8 +8578,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -8601,7 +8601,7 @@
       "name": "Chrome Mobile",
       "version": "70.0.3538.110",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "70.0.3538.110"
     },
     "device": {
       "type": "smartphone",
@@ -8623,7 +8623,7 @@
       "name": "Chrome Mobile",
       "version": "73.0.3683.90",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "73.0.3683.90"
     },
     "device": {
       "type": "smartphone",
@@ -8645,7 +8645,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.143",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -8667,7 +8667,7 @@
       "name": "Chrome Mobile",
       "version": "78.0.3904.108",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "78.0.3904.108"
     },
     "device": {
       "type": "smartphone",
@@ -8688,8 +8688,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -8710,8 +8710,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "9.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -8733,7 +8733,7 @@
       "name": "Chrome Mobile",
       "version": "73.0.3683.90",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "73.0.3683.90"
     },
     "device": {
       "type": "smartphone",
@@ -8755,7 +8755,7 @@
       "name": "Chrome Webview",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -8798,8 +8798,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "5.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "51.0.2704.106"
     },
     "device": {
       "type": "smartphone",
@@ -8820,8 +8820,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "11.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -8842,8 +8842,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "8.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -8865,7 +8865,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.83",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.83"
     },
     "device": {
       "type": "smartphone",
@@ -8887,7 +8887,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.143",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -8931,7 +8931,7 @@
       "name": "Chrome Webview",
       "version": "69.0.3497.100",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "69.0.3497.100"
     },
     "device": {
       "type": "smartphone",
@@ -8952,8 +8952,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "5.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "51.0.2704.106"
     },
     "device": {
       "type": "smartphone",
@@ -8974,8 +8974,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "11.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -8996,8 +8996,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -9062,8 +9062,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "9.3",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
@@ -9085,7 +9085,7 @@
       "name": "Chrome Mobile",
       "version": "78.0.3904.108",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "78.0.3904.108"
     },
     "device": {
       "type": "smartphone",
@@ -9107,7 +9107,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.143",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -9129,7 +9129,7 @@
       "name": "Chrome Mobile",
       "version": "64.0.3282.137",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "64.0.3282.137"
     },
     "device": {
       "type": "smartphone",
@@ -9151,7 +9151,7 @@
       "name": "Chrome Mobile",
       "version": "68.0.3440.91",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.91"
     },
     "device": {
       "type": "smartphone",
@@ -9173,7 +9173,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.101",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.101"
     },
     "device": {
       "type": "smartphone",
@@ -9194,8 +9194,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "8.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -9217,7 +9217,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.101",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.101"
     },
     "device": {
       "type": "smartphone",
@@ -9238,8 +9238,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -9260,8 +9260,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -9282,8 +9282,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "12.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "79.0.3945.136"
     },
     "device": {
       "type": "smartphone",
@@ -9305,7 +9305,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.83",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.83"
     },
     "device": {
       "type": "smartphone",
@@ -9349,7 +9349,7 @@
       "name": "Yandex Browser",
       "version": "10.70",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "81.0.4044.138"
     },
     "device": {
       "type": "smartphone",
@@ -9371,7 +9371,7 @@
       "name": "Chrome Mobile",
       "version": "55.0.2883.91",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "55.0.2883.91"
     },
     "device": {
       "type": "smartphone",
@@ -9392,8 +9392,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "4.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "44.0.2403.133"
     },
     "device": {
       "type": "smartphone",
@@ -9481,7 +9481,7 @@
       "name": "Chrome Mobile",
       "version": "49.0.2623.105",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "49.0.2623.105"
     },
     "device": {
       "type": "smartphone",
@@ -9503,7 +9503,7 @@
       "name": "Chrome Mobile",
       "version": "60.0.3112.97",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "60.0.3112.97"
     },
     "device": {
       "type": "smartphone",
@@ -9525,7 +9525,7 @@
       "name": "Opera Mobile",
       "version": "43.2.2254.140293",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.101"
     },
     "device": {
       "type": "smartphone",
@@ -9547,7 +9547,7 @@
       "name": "Chrome Mobile",
       "version": "43.0.2357.93",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "43.0.2357.93"
     },
     "device": {
       "type": "smartphone",
@@ -9569,7 +9569,7 @@
       "name": "Chrome Mobile",
       "version": "64.0.3282.137",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "64.0.3282.137"
     },
     "device": {
       "type": "smartphone",
@@ -9634,8 +9634,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "12.10.0.1196",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -9656,8 +9656,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "12.11.8.1186",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -9678,8 +9678,8 @@
       "type": "browser",
       "name": "UC Browser Turbo",
       "version": "1.4.6.900",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -9700,8 +9700,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -9723,12 +9723,12 @@
       "name": "Chrome Mobile",
       "version": "74.0.3729.136",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "74.0.3729.136"
     },
     "device": {
       "type": "smartphone",
       "brand": "Samsung",
-      "model": "Galaxy J5 (2017)"
+      "model": "Galaxy J5 Pro (2017)"
     },
     "os_family": "Android",
     "browser_family": "Chrome"
@@ -9745,7 +9745,7 @@
       "name": "Chrome Mobile",
       "version": "50.0.2661.89",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "50.0.2661.89"
     },
     "device": {
       "type": "smartphone",
@@ -9767,7 +9767,7 @@
       "name": "Chrome Mobile",
       "version": "64.0.3282.137",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "64.0.3282.137"
     },
     "device": {
       "type": "smartphone",
@@ -9789,7 +9789,7 @@
       "name": "Chrome Mobile",
       "version": "65.0.3325.109",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "65.0.3325.109"
     },
     "device": {
       "type": "smartphone",
@@ -9810,8 +9810,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "11.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -9833,7 +9833,7 @@
       "name": "Chrome Mobile",
       "version": "68.0.3440.70",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.70"
     },
     "device": {
       "type": "smartphone",
@@ -9855,7 +9855,7 @@
       "name": "Chrome Mobile",
       "version": "68.0.3440.85",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.85"
     },
     "device": {
       "type": "smartphone",
@@ -9877,7 +9877,7 @@
       "name": "Chrome Webview",
       "version": "68.0.3440.70",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.70"
     },
     "device": {
       "type": "smartphone",
@@ -9899,7 +9899,7 @@
       "name": "Chrome Mobile",
       "version": "81.0.4044.117",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "81.0.4044.117"
     },
     "device": {
       "type": "smartphone",
@@ -9921,7 +9921,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.96",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.96"
     },
     "device": {
       "type": "smartphone",
@@ -9943,7 +9943,7 @@
       "name": "Chrome Mobile",
       "version": "71.0.3578.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -9964,8 +9964,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "3.3",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "38.0.2125.102"
     },
     "device": {
       "type": "smartphone",
@@ -9987,7 +9987,7 @@
       "name": "Chrome Mobile",
       "version": "55.0.2883.91",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "55.0.2883.91"
     },
     "device": {
       "type": "smartphone",
@@ -10009,7 +10009,7 @@
       "name": "Chrome Mobile",
       "version": "56.0.2924.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -10031,7 +10031,7 @@
       "name": "Chrome Webview",
       "version": "62.0.3202.84",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "62.0.3202.84"
     },
     "device": {
       "type": "smartphone",
@@ -10052,8 +10052,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "4.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "44.0.2403.133"
     },
     "device": {
       "type": "smartphone",
@@ -10075,7 +10075,7 @@
       "name": "Chrome Mobile",
       "version": "50.0.2661.89",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "50.0.2661.89"
     },
     "device": {
       "type": "smartphone",
@@ -10097,7 +10097,7 @@
       "name": "Chrome Mobile",
       "version": "64.0.3282.137",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "64.0.3282.137"
     },
     "device": {
       "type": "smartphone",
@@ -10119,7 +10119,7 @@
       "name": "Opera Mobile",
       "version": "54.2.2672.49907",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "76.0.3809.132"
     },
     "device": {
       "type": "smartphone",
@@ -10140,8 +10140,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "4.0",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "44.0.2403.133"
     },
     "device": {
       "type": "smartphone",
@@ -10162,8 +10162,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "12.11.5.1185",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -10185,7 +10185,7 @@
       "name": "Opera Mobile",
       "version": "44.1.2254.143214",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "77.0.3865.92"
     },
     "device": {
       "type": "smartphone",
@@ -10207,7 +10207,7 @@
       "name": "Opera Mobile",
       "version": "52.0.2517.139457",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "73.0.3683.90"
     },
     "device": {
       "type": "smartphone",
@@ -10228,8 +10228,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -10250,8 +10250,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -10273,7 +10273,7 @@
       "name": "Chrome Mobile",
       "version": "74.0.3729.136",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "74.0.3729.136"
     },
     "device": {
       "type": "smartphone",
@@ -10294,8 +10294,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "12.11.2.1184",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -10317,7 +10317,7 @@
       "name": "Chrome Mobile",
       "version": "65.0.3325.109",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "65.0.3325.109"
     },
     "device": {
       "type": "smartphone",
@@ -10339,7 +10339,7 @@
       "name": "Chrome Mobile",
       "version": "78.0.3904.96",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "78.0.3904.96"
     },
     "device": {
       "type": "smartphone",
@@ -10361,7 +10361,7 @@
       "name": "Chrome Mobile",
       "version": "80.0.3987.132",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "80.0.3987.132"
     },
     "device": {
       "type": "smartphone",
@@ -10383,7 +10383,7 @@
       "name": "Chrome Mobile",
       "version": "81.0.4044.117",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "81.0.4044.117"
     },
     "device": {
       "type": "smartphone",
@@ -10405,7 +10405,7 @@
       "name": "Chrome Mobile",
       "version": "81.0.4044.138",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "81.0.4044.138"
     },
     "device": {
       "type": "smartphone",
@@ -10427,7 +10427,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.101",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.101"
     },
     "device": {
       "type": "smartphone",
@@ -10449,7 +10449,7 @@
       "name": "Chrome Mobile",
       "version": "83.0.4103.106",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "83.0.4103.106"
     },
     "device": {
       "type": "smartphone",
@@ -10470,8 +10470,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -10492,8 +10492,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -10515,7 +10515,7 @@
       "name": "Chrome Webview",
       "version": "39.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "39.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -10536,8 +10536,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -10559,7 +10559,7 @@
       "name": "Chrome Mobile",
       "version": "77.0.3865.92",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "77.0.3865.92"
     },
     "device": {
       "type": "smartphone",
@@ -10580,8 +10580,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "10.1",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -10603,7 +10603,7 @@
       "name": "Chrome Mobile",
       "version": "75.0.3770.143",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "75.0.3770.143"
     },
     "device": {
       "type": "smartphone",
@@ -10625,7 +10625,7 @@
       "name": "Chrome Mobile",
       "version": "77.0.3865.73",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "77.0.3865.73"
     },
     "device": {
       "type": "smartphone",
@@ -10646,8 +10646,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "6.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -10669,7 +10669,7 @@
       "name": "Chrome Mobile",
       "version": "59.0.3071.125",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -10691,7 +10691,7 @@
       "name": "Chrome Mobile",
       "version": "66.0.3359.158",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "66.0.3359.158"
     },
     "device": {
       "type": "smartphone",
@@ -10713,7 +10713,7 @@
       "name": "Chrome Mobile",
       "version": "68.0.3440.91",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "68.0.3440.91"
     },
     "device": {
       "type": "smartphone",
@@ -10735,7 +10735,7 @@
       "name": "Chrome Mobile",
       "version": "71.0.3578.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -10756,8 +10756,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "8.2",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "63.0.3239.111"
     },
     "device": {
       "type": "smartphone",
@@ -10779,7 +10779,7 @@
       "name": "Chrome Webview",
       "version": "60.0.3112.116",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "60.0.3112.116"
     },
     "device": {
       "type": "smartphone",
@@ -10800,8 +10800,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "5.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "51.0.2704.106"
     },
     "device": {
       "type": "smartphone",
@@ -10823,7 +10823,7 @@
       "name": "Chrome Mobile",
       "version": "71.0.3578.99",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "71.0.3578.99"
     },
     "device": {
       "type": "smartphone",
@@ -10845,7 +10845,7 @@
       "name": "Chrome Mobile",
       "version": "56.0.2924.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "56.0.2924.87"
     },
     "device": {
       "type": "smartphone",
@@ -10866,8 +10866,8 @@
       "type": "browser",
       "name": "Samsung Browser",
       "version": "7.4",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "59.0.3071.125"
     },
     "device": {
       "type": "smartphone",
@@ -10888,8 +10888,8 @@
       "type": "browser",
       "name": "UC Browser",
       "version": "12.5.0.1109",
-      "engine": "WebKit",
-      "engine_version": "537.36"
+      "engine": "Blink",
+      "engine_version": "57.0.2987.108"
     },
     "device": {
       "type": "smartphone",
@@ -10911,7 +10911,7 @@
       "name": "Chrome Mobile",
       "version": "73.0.3683.90",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "73.0.3683.90"
     },
     "device": {
       "type": "smartphone",
@@ -10933,7 +10933,7 @@
       "name": "Chrome Webview",
       "version": "39.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "39.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -10955,7 +10955,7 @@
       "name": "Chrome Webview",
       "version": "39.0.0.0",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "39.0.0.0"
     },
     "device": {
       "type": "smartphone",
@@ -10977,12 +10977,2542 @@
       "name": "Chrome Mobile",
       "version": "67.0.3396.87",
       "engine": "Blink",
-      "engine_version": ""
+      "engine_version": "67.0.3396.87"
     },
     "device": {
       "type": "smartphone",
       "brand": "Samsung",
       "model": "Galaxy J9 8 Pro"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELEMENT PLAY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Kalley",
+      "model": "Element Play"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; UP 32) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.58 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "99.0.4844.58",
+      "engine": "Blink",
+      "engine_version": "99.0.4844.58"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Positivo",
+      "model": "Twist 4 Pro"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; 5002W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.58 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "99.0.4844.58",
+      "engine": "Blink",
+      "engine_version": "99.0.4844.58"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "1B (2020)"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; T766S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.73 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "99.0.4844.73",
+      "engine": "Blink",
+      "engine_version": "99.0.4844.73"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "10 SE"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; T790S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "98.0.4758.87",
+      "engine": "Blink",
+      "engine_version": "98.0.4758.87"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "10 5G UW"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; U; Android 10; M9106 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/13.4.0.1306 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "UC Browser",
+      "version": "13.4.0.1306",
+      "engine": "Blink",
+      "engine_version": "78.0.3904.108"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Movitel",
+      "model": "M9106"
+    },
+    "os_family": "Android",
+    "browser_family": "Unknown"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ART1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "96.0.4664.104",
+      "engine": "Blink",
+      "engine_version": "96.0.4664.104"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Yezz",
+      "model": "Art 1"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; LIO-L09; HMSCore 6.3.0.332) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 HuaweiBrowser/12.0.1.302 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Huawei Browser Mobile",
+      "version": "12.0.1.302",
+      "engine": "Blink",
+      "engine_version": "92.0.4515.105"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Huawei",
+      "model": "Mate 30 Pro"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; M8421) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "81.0.4044.138",
+      "engine": "Blink",
+      "engine_version": "81.0.4044.138"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Movitel",
+      "model": "M8421"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SP-6100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "80.0.3987.99",
+      "engine": "Blink",
+      "engine_version": "80.0.3987.99"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Siragon",
+      "model": "SP-6100"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; X67 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "98.0.4758.101",
+      "engine": "Blink",
+      "engine_version": "98.0.4758.101"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Archos",
+      "model": "X67 5G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; A508DL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.73 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "99.0.4844.73",
+      "engine": "Blink",
+      "engine_version": "99.0.4844.73"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "A2X"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; UNIQCELL_A4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.73 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "99.0.4844.73",
+      "engine": "Blink",
+      "engine_version": "99.0.4844.73"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Uniqcell",
+      "model": "A4"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; YOLO) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "81.0.4044.138",
+      "engine": "Blink",
+      "engine_version": "81.0.4044.138"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Positivo",
+      "model": "Twist 4 Fit"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; PADUA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "81.0.4044.138",
+      "engine": "Blink",
+      "engine_version": "81.0.4044.138"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Cellution",
+      "model": "Padua"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; BL60_TG17) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "81.0.4044.138",
+      "engine": "Blink",
+      "engine_version": "81.0.4044.138"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Bmobile",
+      "model": "BL60"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Benny10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "81.0.4044.138",
+      "engine": "Blink",
+      "engine_version": "81.0.4044.138"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "iPro",
+      "model": "Benny 10"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; EASY_5_EEA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "98.0.4758.87",
+      "engine": "Blink",
+      "engine_version": "98.0.4758.87"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Konrow",
+      "model": "Easy 5"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; 5002U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "101.0.4951.61",
+      "engine": "Blink",
+      "engine_version": "101.0.4951.61"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "1B (2020)"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; U; Android 10; C55 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36 PHX/10.1",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Phoenix Browser",
+      "version": "10.1",
+      "engine": "Blink",
+      "engine_version": "98.0.4758.101"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "CORN",
+      "model": "C55 Pro"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; TREK) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "101.0.4951.61",
+      "engine": "Blink",
+      "engine_version": "101.0.4951.61"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Olympia",
+      "model": "Trek"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Fenix8_3G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "81.0.4044.138",
+      "engine": "Blink",
+      "engine_version": "81.0.4044.138"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "CORN",
+      "model": "Fenix 8 3G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; MGA-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "102.0.0.0",
+      "engine": "Blink",
+      "engine_version": "102.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Huawei",
+      "model": "Nova Y70"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; AURA_Z) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Zuum",
+      "model": "Aura Z"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Black_Z) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Kalley",
+      "model": "Black Z"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; U328AA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "AT&T",
+      "model": "Calypso 3"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; V2206) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "13",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Vivo",
+      "model": "Y22s"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; HD1917) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "13",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "OnePlus",
+      "model": "7T Pro"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Black_G_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Kalley",
+      "model": "Black G 2"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; T771K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "40R 5G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; T779W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "Stylus 5G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; T767W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "30 XE 5G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; T767G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "30 XE 5G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; T603DL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "30 T"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; T506D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "102.0.0.0",
+      "engine": "Blink",
+      "engine_version": "102.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "405"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; T776O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "30 5G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; T671G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "30 XL"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; V2139) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Vivo",
+      "model": "Y15s"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; T701DL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "30 XL"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; U626AA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "103.0.0.0",
+      "engine": "Blink",
+      "engine_version": "103.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "AT&T",
+      "model": "Maestro 3"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; N151DL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "103.0.0.0",
+      "engine": "Blink",
+      "engine_version": "103.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Nokia",
+      "model": "C200"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; 4188C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "103.0.0.0",
+      "engine": "Blink",
+      "engine_version": "103.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "30 Z"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; 4188R) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "103.0.0.0",
+      "engine": "Blink",
+      "engine_version": "103.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "30 Z"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; N150DL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Nokia",
+      "model": "G100"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; V2169) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "106.0.0.0",
+      "engine": "Blink",
+      "engine_version": "106.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Vivo",
+      "model": "Y77 5G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SL101AE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "106.0.0.0",
+      "engine": "Blink",
+      "engine_version": "106.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Cricket",
+      "model": "Debut Smart"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; 220733SL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Xiaomi",
+      "model": "Redmi A1"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; 6027A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "106.0.0.0",
+      "engine": "Blink",
+      "engine_version": "106.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "3H Plus"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SL100EA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Cricket",
+      "model": "Vision Plus"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; 4188S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "304"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Olax Prime 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "99.0.4844.88",
+      "engine": "Blink",
+      "engine_version": "99.0.4844.88"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Olax",
+      "model": "Prime 12"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; V2221) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "106.0.0.0",
+      "engine": "Blink",
+      "engine_version": "106.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Vivo",
+      "model": "Y02s"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; RC608L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.63 Mobile Safari/537.36 ABB/3.2.1",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "AdBlock Browser",
+      "version": "3.2.1",
+      "engine": "Blink",
+      "engine_version": "101.0.4951.63"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Orbic",
+      "model": "Joy"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; Multilaser_E_Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Multilaser",
+      "model": "E Pro"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; LOGIC L63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Logic",
+      "model": "L63"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; LOGIC L65 LITE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Logic",
+      "model": "L65 Lite"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; CORN Note1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "CORN",
+      "model": "Note 1"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; yestel P30) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "106.0.0.0",
+      "engine": "Blink",
+      "engine_version": "106.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Yestel",
+      "model": "P30"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ART1_PRO) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "103.0.0.0",
+      "engine": "Blink",
+      "engine_version": "103.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Yezz",
+      "model": "Art 1 Pro"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; AURA PLUS JLO) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Zuum",
+      "model": "Aura Plus J.Lo"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; Boost_Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "8.1.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "105.0.0.0",
+      "engine": "Blink",
+      "engine_version": "105.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Hi",
+      "model": "Boost Max"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; Boost) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "8.1.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Hi",
+      "model": "Boost"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; B60Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Bmobile",
+      "model": "B60 Pro"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; C60 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "101.0.4951.61",
+      "engine": "Blink",
+      "engine_version": "101.0.4951.61"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "CORN",
+      "model": "C60 Ultra"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; CITY5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "9",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "102.0.0.0",
+      "engine": "Blink",
+      "engine_version": "102.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Konrow",
+      "model": "City 5"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; CS22XA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "9",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "102.0.0.0",
+      "engine": "Blink",
+      "engine_version": "102.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Cyrus",
+      "model": "CS22 XA"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; CS22XA_EEA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "9",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "98.0.4758.101",
+      "engine": "Blink",
+      "engine_version": "98.0.4758.101"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Cyrus",
+      "model": "CS22 XA"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; W626 LITE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.58 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "8.1.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "99.0.4844.58",
+      "engine": "Blink",
+      "engine_version": "99.0.4844.58"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Wolki",
+      "model": "W6.26 Lite"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; MH-T6000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "94.0.4606.85",
+      "engine": "Blink",
+      "engine_version": "94.0.4606.85"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Moxee",
+      "model": "2160"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 6.0; WS5SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "6.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "95.0.4638.74",
+      "engine": "Blink",
+      "engine_version": "95.0.4638.74"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Wolki",
+      "model": "W5 SE"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 5.1; WS626) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "5.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "95.0.4638.74",
+      "engine": "Blink",
+      "engine_version": "95.0.4638.74"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Wolki",
+      "model": "W6.26"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; 22071219AI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Xiaomi",
+      "model": "Redmi 11 Prime"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; 2210132C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "13",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Xiaomi",
+      "model": "13 Pro"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; 6165S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "104.0.0.0",
+      "engine": "Blink",
+      "engine_version": "104.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "30 SE"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 6159A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "105.0.0.0",
+      "engine": "Blink",
+      "engine_version": "105.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "20B"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; 6127A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "30E"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 6102A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "305"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 6056A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.78 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "102.0.5005.78",
+      "engine": "Blink",
+      "engine_version": "102.0.5005.78"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "3L"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 6025A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "93.0.4577.62",
+      "engine": "Blink",
+      "engine_version": "93.0.4577.62"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "1S"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 6002A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "103.0.0.0",
+      "engine": "Blink",
+      "engine_version": "103.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "1V (2021)"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 6002D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "103.0.0.0",
+      "engine": "Blink",
+      "engine_version": "103.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "1V (2021)"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 4163D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "106.0.0.0",
+      "engine": "Blink",
+      "engine_version": "106.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "304"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; 4188L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "96.0.4664.104",
+      "engine": "Blink",
+      "engine_version": "96.0.4664.104"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "30 Z"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 5031A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "1B (2022)"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 5031D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "1B (2022)"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; 5032O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.73 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "9",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "99.0.4844.73",
+      "engine": "Blink",
+      "engine_version": "99.0.4844.73"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "3V"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 5033FR) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.78 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "102.0.5005.78",
+      "engine": "Blink",
+      "engine_version": "102.0.5005.78"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "1 (2021)"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 5033MP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "1 Ultra"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 5033TR) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "104.0.0.0",
+      "engine": "Blink",
+      "engine_version": "104.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "1 (2021)"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 5033DR) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "96.0.4664.104",
+      "engine": "Blink",
+      "engine_version": "96.0.4664.104"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "1 (2021)"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.1.1; 5058J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "7.1.1",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "103.0.0.0",
+      "engine": "Blink",
+      "engine_version": "103.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Alcatel",
+      "model": "3X"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 5102L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "105.0.0.0",
+      "engine": "Blink",
+      "engine_version": "105.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "A30"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; 5124J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "9",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "103.0.0.0",
+      "engine": "Blink",
+      "engine_version": "103.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "L10"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; 5102P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.73 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "99.0.4844.73",
+      "engine": "Blink",
+      "engine_version": "99.0.4844.73"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "L7"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 5102O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "94.0.4606.85",
+      "engine": "Blink",
+      "engine_version": "94.0.4606.85"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "A30"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; 5164D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "TCL",
+      "model": "305i"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; Alpha 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.63 Mobile Safari/537.36 ABB/3.2.1",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "AdBlock Browser",
+      "version": "3.2.1",
+      "engine": "Blink",
+      "engine_version": "101.0.4951.63"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "True",
+      "model": "Alpha 5G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CM17XA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "103.0.0.0",
+      "engine": "Blink",
+      "engine_version": "103.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Cyrus",
+      "model": "CM17XA"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; CTR-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "100.0.4896.79",
+      "engine": "Blink",
+      "engine_version": "100.0.4896.79"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Huawei",
+      "model": "Nova Y90"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; Digitplay1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "104.0.0.0",
+      "engine": "Blink",
+      "engine_version": "104.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Digit",
+      "model": "Digit4G Play1"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; Elite B65) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Sky",
+      "model": "Elite B65"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; Elite_G55) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "100.0.4896.127",
+      "engine": "Blink",
+      "engine_version": "100.0.4896.127"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Sky",
+      "model": "Elite G55"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; Faith29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "8.1.0",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "MTN",
+      "model": "Faith 29"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; GENESIS_126) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "105.0.0.0",
+      "engine": "Blink",
+      "engine_version": "105.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Mobile Kingdom",
+      "model": "Génesis 126"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; GLA-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "106.0.0.0",
+      "engine": "Blink",
+      "engine_version": "106.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Huawei",
+      "model": "Nova 10 Pro"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; Hammer_Blade_5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "106.0.0.0",
+      "engine": "Blink",
+      "engine_version": "106.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Hammer",
+      "model": "Blade 5G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; Hammer_Explorer_Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "106.0.0.0",
+      "engine": "Blink",
+      "engine_version": "106.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Hammer",
+      "model": "Explorer Plus"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Halo4 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "10",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Airpha",
+      "model": "Halo4 Pro"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; Z3353CA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "106.0.0.0",
+      "engine": "Blink",
+      "engine_version": "106.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "ZTE",
+      "model": "Blade A3 Plus"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; Studio X10L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "101.0.4951.61",
+      "engine": "Blink",
+      "engine_version": "101.0.4951.61"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Blu",
+      "model": "Studio X10L"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; WTCKT01) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Cricket",
+      "model": "Icon 4"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; RMX3493) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "103.0.0.0",
+      "engine": "Blink",
+      "engine_version": "103.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Realme",
+      "model": "9i"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; RMX3396) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Realme",
+      "model": "Narzo 50 Pro 5G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; RMX3572) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "12",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "108.0.0.0",
+      "engine": "Blink",
+      "engine_version": "108.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Realme",
+      "model": "Narzo 50 5G"
+    },
+    "os_family": "Android",
+    "browser_family": "Chrome"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; I2201) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+    "os": {
+      "name": "Android",
+      "version": "13",
+      "platform": ""
+    },
+    "client": {
+      "type": "browser",
+      "name": "Chrome Mobile",
+      "version": "107.0.0.0",
+      "engine": "Blink",
+      "engine_version": "107.0.0.0"
+    },
+    "device": {
+      "type": "smartphone",
+      "brand": "Vivo",
+      "model": "iQOO 9T"
     },
     "os_family": "Android",
     "browser_family": "Chrome"
